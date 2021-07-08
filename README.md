@@ -4,33 +4,31 @@
 
 ### Navegação
 
-<details open="open">
-	  <ul>
-	    <li>
-	      <a href="#sobre-o-curso">Sobre o curso</a>
-	      <ul>
-		      <li>
-			      <a href="#possibilidades-de-atuação"> Possibilidades de atuação</a>
-		      </li>
-		       <li>
-			      <a href="#forma-de-ingresso"> Forma de ingresso</a>
-		      </li>
-	     </ul>
-	     </li>
-	     <li>
-		     <a href="#projetos">Projetos</a>
-	     </li>
-	     <li>
-		     <a href="#disciplinas">Disciplinas</a>
-	     </li>
-	     <li>
-		     <a href="#eventos">Eventos</a>
-	     </li>
-	     <li>
-		     <a href="depoimentos-de-egressos">Depoimentos de egressos</a>
-	     </li>
-	  </ul>
-</details>
+<ul>
+    <li>
+        <a href="#sobre-o-curso">Sobre o curso</a>
+        <ul>
+            <li>
+                <a href="#possibilidades-de-atuação"> Possibilidades de atuação</a>
+            </li>
+            <li>
+                <a href="#forma-de-ingresso"> Forma de ingresso</a>
+            </li>
+        </ul>
+        </li>
+        <li>
+            <a href="#projetos">Projetos</a>
+        </li>
+        <li>
+            <a href="#disciplinas">Disciplinas</a>
+        </li>
+        <li>
+            <a href="#eventos">Eventos</a>
+        </li>
+        <li>
+            <a href="depoimentos-de-egressos">Depoimentos de egressos</a>
+        </li>
+</ul>
 
 ## Sobre o curso
 

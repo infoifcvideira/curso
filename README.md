@@ -7,39 +7,17 @@
 <ul>
     <li>
         <a href="sobre.md">Sobre o curso</a>
-        <ul>
-            <li>
-                <a href="#possibilidades-de-atuação"> Possibilidades de atuação</a>
-            </li>
-            <li>
-                <a href="#forma-de-ingresso"> Forma de ingresso</a>
-            </li>
-        </ul>
         </li>
         <li>
-            <a href="#projetos">Projetos</a>
+            <a href="projetos.md">Projetos</a>
         </li>
         <li>
-            <a href="#disciplinas">Disciplinas</a>
+            <a href="disciplinas.md">Disciplinas</a>
         </li>
         <li>
-            <a href="#eventos">Eventos</a>
+            <a href="eventos.md">Eventos</a>
         </li>
         <li>
-            <a href="depoimentos-de-egressos">Depoimentos de egressos</a>
+            <a href="depoimentos.md">Depoimentos de egressos</a>
         </li>
 </ul>
-
-
-
-## Projetos
-to-do
-
-## Disciplinas
-to-do
-
-## Eventos
-to-do
-
-## Depoimentos de egressos
-to-do

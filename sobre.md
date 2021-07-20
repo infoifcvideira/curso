@@ -1,9 +1,25 @@
-# :computer: Curso de Informática
+# :computer: Sobre o curso
 
 <img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/>
 
 
-<a href="../">← Voltar ao início</a>
+<a href="README.md">← Voltar ao início</a>
+
+### Navegação 
+<ul>
+    <li>
+        <a href="#sobre-o-curso"> Sobre o curso</a>
+    </li>
+    <ul>
+        <li>
+            <a href="#possibilidades-de-atuação"> Possibilidades de atuação</a>
+        </li>
+        <li>
+            <a href="#forma-de-ingresso"> Forma de ingresso</a>
+        </li>
+    </ul>
+</ul>
+
 
 
 ## Sobre o curso

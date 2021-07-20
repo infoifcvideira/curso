@@ -30,7 +30,7 @@ Além da formação técnica, o curso proporciona o desenvolvimento de habilidad
 
 A carga horária total contempla práticas profissionais, que deverá ser cumprida pelo estudante para obter o certificado de conclusão do curso. As práticas profissionais poderão ser cumpridas durante ou após o período de formação, devendo ser concluídas em um prazo máximo de dois semestre após a conclusão das disciplinas.
 
-<img src="src/img/laboratorios.jpg" alt="Imagem de um dos laboratórios de informática do campus">
+<img src="../img/laboratorios.jpg" alt="Imagem de um dos laboratórios de informática do campus">
 
 ---
 

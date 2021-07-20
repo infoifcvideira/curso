@@ -6,18 +6,18 @@
 
 <ul>
     <li>
-        <a href="sobre.md">Sobre o curso</a>
+        <a href="src/pages/sobre.md">Sobre o curso</a>
         </li>
         <li>
-            <a href="projetos.md">Projetos</a>
+            <a href="src/pages/projetos.md">Projetos</a>
         </li>
         <li>
-            <a href="disciplinas.md">Disciplinas</a>
+            <a href="src/pages/disciplinas.md">Disciplinas</a>
         </li>
         <li>
-            <a href="eventos.md">Eventos</a>
+            <a href="src/pages/eventos.md">Eventos</a>
         </li>
         <li>
-            <a href="depoimentos.md">Depoimentos de egressos</a>
+            <a href="src/pages/depoimentos.md">Depoimentos de egressos</a>
         </li>
 </ul>

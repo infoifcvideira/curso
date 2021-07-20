@@ -2,32 +2,10 @@
 
 <img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/>
 
-### Navegação
-
 <ul>
     <li>
-        <a href="#sobre-o-curso">Sobre o curso</a>
-        <ul>
-            <li>
-                <a href="#possibilidades-de-atuação"> Possibilidades de atuação</a>
-            </li>
-            <li>
-                <a href="#forma-de-ingresso"> Forma de ingresso</a>
-            </li>
-        </ul>
-        </li>
-        <li>
-            <a href="#projetos">Projetos</a>
-        </li>
-        <li>
-            <a href="#disciplinas">Disciplinas</a>
-        </li>
-        <li>
-            <a href="#eventos">Eventos</a>
-        </li>
-        <li>
-            <a href="depoimentos-de-egressos">Depoimentos de egressos</a>
-        </li>
+        <a href="main.md">← Voltar ao início</a>
+    </li>
 </ul>
 
 ## Sobre o curso
@@ -37,6 +15,8 @@ O **Curso Técnico em Informática** do Instituto Federal Catarinense – Campus
 Além da formação técnica, o curso proporciona o desenvolvimento de habilidades como iniciativa, persistência, compromisso, liderança, cooperação e relacionamento interpessoal. Os profissionais formados neste curso estão aptos ao exercício de suas funções, são conscientes de suas responsabilidades e possuem visão crítica que lhes permite colaborar com os setores industriais e comerciais, visando o progresso da região. São capazes de participar ativamente das mudanças da realidade nacional vigente, não apenas no contexto empresarial, mas também no contexto social, político e econômico em que ela se insere.
 
 A carga horária total contempla práticas profissionais, que deverá ser cumprida pelo estudante para obter o certificado de conclusão do curso. As práticas profissionais poderão ser cumpridas durante ou após o período de formação, devendo ser concluídas em um prazo máximo de dois semestre após a conclusão das disciplinas.
+
+<img src="src/img/laboratorios.jpg" alt="Imagem de um dos laboratórios de informática do campus">
 
 ---
 
@@ -65,16 +45,4 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 
 O ingresso é realizado a partir de um **exame de classificação** ofertado de acordo com o calendário acadêmico da instituição. 
 
-Para se inscrever, acesse o [Portal de Ingresso](https://ingresso.ifc.edu.br/) do IFC.
-
-## Projetos
-to-do
-
-## Disciplinas
-to-do
-
-## Eventos
-to-do
-
-## Depoimentos de egressos
-to-do
+Para se inscrever, acesse o [Portal de Ingresso](https://ingresso.ifc.edu.br/) do IFC. 

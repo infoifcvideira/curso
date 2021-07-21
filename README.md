@@ -24,7 +24,7 @@
 
 <hr/>
 
-### Sobre o curso
+## Sobre o curso
 
 **Quantidade de vagas**
  70 vagas totais, sendo duas turmas de 35 alunos.
@@ -43,10 +43,10 @@
  
  [Mais informações sobre o curso](src/pages/sobre.md){: .btn}
 
-### Projetos
+## Projetos
 
-### Disciplinas
+## Disciplinas
 
-### Eventos
+## Eventos
 
-### Depoimentos de egressos
+## Depoimentos de egressos

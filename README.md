@@ -6,20 +6,47 @@
 
 <ul>
     <li>
-        <a href="src/pages/sobre.md">Sobre o curso</a>
+        <a href="#sobre-o-curso">Sobre o curso</a>
         </li>
         <li>
-            <a href="src/pages/projetos.md">Projetos</a>
+            <a href="#projetos">Projetos</a>
         </li>
         <li>
-            <a href="src/pages/disciplinas.md">Disciplinas</a>
+            <a href="#disciplinas">Disciplinas</a>
         </li>
         <li>
-            <a href="src/pages/eventos.md">Eventos</a>
+            <a href="#eventos">Eventos</a>
         </li>
         <li>
-            <a href="src/pages/depoimentos.md">Depoimentos de egressos</a>
+            <a href="#depoimentos-de-egressos">Depoimentos de egressos</a>
         </li>
 </ul>
 
 <hr/>
+
+### Sobre o curso
+
+**Quantidade de vagas**
+ 70 vagas totais, sendo duas turmas de 35 alunos.
+
+**Modalidade**
+ Integrado ao Ensino Médio, onde além da formação técnica o aluno cursa as disciplinas normais do ensino médio, como Português, Matemática, Física, Química, Biologia entre outras.
+
+**Carga horária**
+ 3730 horas totais, sendo 1200 horas do Ensino Técnico Profissionalizante (incluído 130 horas de estágio curricular e práticas profissionais que podem ser cumpridas em qualquer momento durante o curso) e 2400 horas de Ensino Básico.
+
+**Período**
+ Integral (matutino e vespertino).
+
+**Pré-requisitos**
+ Ensino Fundamental Completo e demais informações previstas no Edital.
+ 
+ [Mais informações sobre o curso](src/pages/sobre.md){: .btn}
+
+### Projetos
+
+### Disciplinas
+
+### Eventos
+
+### Depoimentos de egressos

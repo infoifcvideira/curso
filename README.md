@@ -42,6 +42,8 @@
  Ensino Fundamental Completo e demais informações previstas no Edital.
  
  [Mais informações sobre o curso](src/pages/sobre.md){: .btn}
+ 
+ <button name="button">mais infoalalal</button>
 
 ## Projetos
 

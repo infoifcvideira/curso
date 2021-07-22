@@ -34,19 +34,19 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 
 ---
 
-**Quantidade de vagas**
+**Quantidade de vagas**<br>
  70 vagas totais, sendo duas turmas de 35 alunos.
 
-**Modalidade**
+**Modalidade**<br>
  Integrado ao Ensino Médio, onde além da formação técnica o aluno cursa as disciplinas normais do ensino médio, como Português, Matemática, Física, Química, Biologia entre outras.
 
-**Carga horária**
+**Carga horária**<br>
  3730 horas totais, sendo 1200 horas do Ensino Técnico Profissionalizante (incluído 130 horas de estágio curricular e práticas profissionais que podem ser cumpridas em qualquer momento durante o curso) e 2400 horas de Ensino Básico.
 
-**Período**
+**Período**<br>
  Integral (matutino e vespertino).
 
-**Pré-requisitos**
+**Pré-requisitos**<br>
  Ensino Fundamental Completo e demais informações previstas no Edital.
 
 ---

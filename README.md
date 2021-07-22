@@ -41,7 +41,7 @@
 **Pré-requisitos**<br>
  Ensino Fundamental Completo e demais informações previstas no Edital.
  
- <a href="src/pages/sobre.md"><img src="src/img/btn-sobre.png"/></a>
+ <a href="src/pages/sobre.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20o%20curso-green?style=for-the-badge"/></a>
  
 
 ## Projetos

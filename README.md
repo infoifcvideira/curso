@@ -1,6 +1,6 @@
 # :computer: Curso de Informática
 
-<img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/>
+<a href="https://www.instagram.com/ifc.oficial.videira/"><img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/></a>
 
 ### Navegação
 

@@ -1,6 +1,6 @@
 # :computer: Sobre o curso
 
-<img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/>
+<a href="https://www.instagram.com/ifc.oficial.videira/"><img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/></a>
 
 
 <a href="../../README.md">← Voltar ao início</a>
@@ -30,23 +30,23 @@ Além da formação técnica, o curso proporciona o desenvolvimento de habilidad
 
 A carga horária total contempla práticas profissionais, que deverá ser cumprida pelo estudante para obter o certificado de conclusão do curso. As práticas profissionais poderão ser cumpridas durante ou após o período de formação, devendo ser concluídas em um prazo máximo de dois semestre após a conclusão das disciplinas.
 
-<img src="../img/laboratorios.jpg" alt="Imagem de um dos laboratórios de informática do campus">
+<img src="../img/laboratorios.jpg" alt="Imagem de um dos laboratórios de informática do campus" width="65%">
 
 ---
 
-**Quantidade de vagas**
+**Quantidade de vagas**<br>
  70 vagas totais, sendo duas turmas de 35 alunos.
 
-**Modalidade**
+**Modalidade**<br>
  Integrado ao Ensino Médio, onde além da formação técnica o aluno cursa as disciplinas normais do ensino médio, como Português, Matemática, Física, Química, Biologia entre outras.
 
-**Carga horária**
+**Carga horária**<br>
  3730 horas totais, sendo 1200 horas do Ensino Técnico Profissionalizante (incluído 130 horas de estágio curricular e práticas profissionais que podem ser cumpridas em qualquer momento durante o curso) e 2400 horas de Ensino Básico.
 
-**Período**
+**Período**<br>
  Integral (matutino e vespertino).
 
-**Pré-requisitos**
+**Pré-requisitos**<br>
  Ensino Fundamental Completo e demais informações previstas no Edital.
 
 ---

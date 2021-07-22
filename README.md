@@ -41,9 +41,7 @@
 **Pré-requisitos**<br>
  Ensino Fundamental Completo e demais informações previstas no Edital.
  
- [Mais informações *sobre o curso* →](src/pages/sobre.md)
- 
- <a href="src/pages/sobre.md"><img src="src/img/btn-sobre.png"/></a>
+ <a href="src/pages/sobre.md" align="right"><img src="src/img/btn-sobre.png"/></a>
  
 
 ## Projetos

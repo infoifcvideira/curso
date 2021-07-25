@@ -60,18 +60,18 @@ Língua Portuguesa | 90h | 90h | 90h
 Matemática | 120h | 90h | 90h
 Química | 60h | 60h | 60h
 Sociologia |  | 60h | 60h
-- | - | - | - |
+-| - | - | - |
 Fundamentos da Informática | 60h 
 Hardware e Sistemas Operacionais | 120h
 Lógica de Programação | 120h 
 Multimídia | 90h  
 Web Design | 60h
-- | - | - | - |
+-| - | - | - |
 Banco de Dados | | 90h 
 Engenharia de Software | | 60h 
 Programação I | | 120h
 Redes | | 60h
-- | - | - | - |
+-| - | - | - |
 Desenvolvimento de Projetos | | | 120h
 Empreendedorismo | | | 60h
 Programação II | | | 120h

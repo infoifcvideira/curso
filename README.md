@@ -15,7 +15,7 @@
             <a href="#disciplinas">Disciplinas</a>
             <ul>
                 <li>
-                    <a href="#matriz-curricular">Matrizes curriculares</a>
+                    <a href="#matriz-curricular">Matriz Curricular</a>
                 </li>
             </ul>
         </li>
@@ -44,23 +44,14 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 
 ## Disciplinas
 
+O **Curso Técnico em Informática** oferece 12 disciplinas totais, considerando os três anos de vigência do discente, a carga horária de cada disciplina foi planejada a fim de obter o melhor aproveitamento dos conteúdos apresentados.
+
+Segue abaixo a *Matriz Curricular* do curso, contendo os componentes curriculares (disciplinas) juntamente com sua respectiva carga horária em cada ano:
+
 ### Matriz Curricular
 
 Componente Curricular | 1° ano | 2° ano | 3° ano |
 :------:  | :-------:  |  :-------: | :--------: |
-Artes | 60h | 60h | 
-Biologia | 60h | 60h | 60h
-Educação Física | 60h | 60h | 60h
-Filosofia | 60h | 60h | 
-Física | 60h | 60h | 60h
-Geografia | 60h | 60h | 60h
-História | 60h | 60h | 60h
-Inglês | 60h | 60h | 
-Língua Portuguesa | 90h | 90h | 90h
-Matemática | 120h | 90h | 90h
-Química | 60h | 60h | 60h
-Sociologia |  | 60h | 60h
--| - | - | - |
 Fundamentos da Informática | 60h 
 Hardware e Sistemas Operacionais | 120h
 Lógica de Programação | 120h 

@@ -37,7 +37,7 @@ Além da formação técnica, o curso proporciona o desenvolvimento de habilidad
 
 A carga horária total contempla práticas profissionais, que deverá ser cumprida pelo estudante para obter o certificado de conclusão do curso. As práticas profissionais poderão ser cumpridas durante ou após o período de formação, devendo ser concluídas em um prazo máximo de dois semestre após a conclusão das disciplinas.
  
- <a href="src/pages/sobre.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20o%20curso-green?style=for-the-badge&color=037623"/></a>
+<a href="src/pages/sobre.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20o%20curso-green?style=for-the-badge&color=037623"/></a>
  
 
 ## Projetos
@@ -75,6 +75,8 @@ Redes | | 60h
 Desenvolvimento de Projetos | | | 120h
 Empreendedorismo | | | 60h
 Programação II | | | 120h
+
+<a href="src/pages/disciplinas.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=037623"/></a>
 
 ## Eventos
 

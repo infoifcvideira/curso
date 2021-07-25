@@ -60,3 +60,8 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 O ingresso é realizado a partir de um **exame de classificação** ofertado de acordo com o calendário acadêmico da instituição. 
 
 Para se inscrever, acesse o [Portal de Ingresso](https://ingresso.ifc.edu.br/) do IFC. 
+
+---
+
+### Corpo docente
+

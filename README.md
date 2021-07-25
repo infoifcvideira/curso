@@ -13,6 +13,11 @@
         </li>
         <li>
             <a href="#disciplinas">Disciplinas</a>
+            <ul>
+                <li>
+                    <a href="#matriz-curricular">Matrizes curriculares</a>
+                </li>
+            </ul>
         </li>
         <li>
             <a href="#eventos">Eventos</a>
@@ -38,6 +43,38 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 ## Projetos
 
 ## Disciplinas
+
+### Matriz Curricular
+
+Componente Curricular | 1° ano | 2° ano | 3° ano |
+:------:  | :-------:  |  :-------: | :--------: |
+Artes | 60h | 60h | 
+Biologia | 60h | 60h | 60h
+Educação Física | 60h | 60h | 60h
+Filosofia | 60h | 60h | 
+Física | 60h | 60h | 60h
+Geografia | 60h | 60h | 60h
+História | 60h | 60h | 60h
+Inglês | 60h | 60h | 
+Língua Portuguesa | 90h | 90h | 90h
+Matemática | 120h | 90h | 90h
+Química | 60h | 60h | 60h
+Sociologia |  | 60h | 60h
+- | - | - | - |
+Fundamentos da Informática | 60h 
+Hardware e Sistemas Operacionais | 120h
+Lógica de Programação | 120h 
+Multimídia | 90h  
+Web Design | 60h
+- | - | - | - |
+Banco de Dados | | 90h 
+Engenharia de Software | | 60h 
+Programação I | | 120h
+Redes | | 60h
+- | - | - | - |
+Desenvolvimento de Projetos | | | 120h
+Empreendedorismo | | | 60h
+Programação II | | | 120h
 
 ## Eventos
 

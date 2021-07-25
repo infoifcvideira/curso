@@ -51,6 +51,7 @@ Ministrada por:
 
 **Leila Lisiane Rossi** <br>
 *Mestre em Ciência da Computação* <br>
+<br>
 <a href="https://www.linkedin.com/in/leila-lisiane-rossi-0aa16998/"><img src="https://img.shields.io/badge/LinkedIn-Acessar%20perfil-blue?style=for-the-badge&logo=linkedin&labelColor=0a66c2&color=3784ce"/></a>
 
 ### Desenvolvimento de Projetos

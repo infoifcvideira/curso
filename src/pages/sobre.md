@@ -63,5 +63,3 @@ Para se inscrever, acesse o [Portal de Ingresso](https://ingresso.ifc.edu.br/) d
 
 ---
 
-### Corpo docente
-

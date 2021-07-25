@@ -4,3 +4,67 @@
 
 <a href="../../README.md">← Voltar ao início</a>
 
+### Navegação 
+<ul>
+    <li>
+        <a href="#matriz-curricular">Matriz Curricular</a>
+    </li>
+    <li>
+        <a href="#detalhes-das-disciplinas">Detalhes das disciplinas</a>
+    </li>
+</ul>
+
+## Matriz Curricular
+
+Clique em um componente curricular para vê-lo detalhadamente, ou continue rolando para baixo até os *detalhes das disciplinas*.
+
+Componente Curricular | 1° ano | 2° ano | 3° ano |
+:------:  | :-------:  |  :-------: | :--------: |
+<a href="#fundamentos-da-informática">Fundamentos da Informática</a> | 60h 
+<a href="#hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h
+<a href="#lógica-de-programação">Lógica de Programação</a> | 120h 
+<a href="#multimídia">Multimídia</a> | 90h  
+<a href="#web-design">Web Design</a> | 60h
+-| - | - | - |
+<a href="#banco-de-dados">Banco de Dados</a> | | 90h 
+<a href="#engenharia-de-software">Engenharia de Software</a> | | 60h 
+<a href="#programação-i">Programação I</a> | | 120h
+<a href="#redes">Redes</a> | | 60h
+-| - | - | - |
+<a href="#desenvolvimento-de-projetos">Desenvolvimento de Projetos</a> | | | 120h
+<a href="#empreendedorismo">Empreendedorismo</a> | | | 60h
+<a href="#programação-ii">Programação II</a> | | | 120h
+
+## Detalhes das disciplinas
+
+Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso, assim como seus respectivos docentes.
+
+### Banco de Dados
+
+
+
+### Desenvolvimento de Projetos
+
+### Empreendedorismo
+
+### Engenharia de Software
+
+### Fundamentos da Informática
+
+### Hardware e Sistemas Operacionais
+
+### Lógica de Programação
+
+### Multimídia
+
+### Programação I
+
+### Programação II
+
+### Redes
+
+### Web Design
+
+Nessa seção, serão abordados os detalhes de cada uma das disciplinas oferecidas pelo **Curso Técnico em Informática**. 
+
+

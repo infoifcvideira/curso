@@ -4,16 +4,6 @@
 
 <a href="../../README.md"><img src="https://img.shields.io/badge/-Voltar%20ao%20in%C3%ADcio-green?style=for-the-badge&color=fc6f03"/></a>
 
-### Navegação 
-<ul>
-    <li>
-        <a href="#matriz-curricular">Matriz Curricular</a>
-    </li>
-    <li>
-        <a href="#detalhes-das-disciplinas">Detalhes das disciplinas</a>
-    </li>
-</ul>
-
 ## Matriz Curricular
 
 Clique em um componente curricular para vê-lo detalhadamente, ou continue rolando para baixo até os *detalhes das disciplinas*.
@@ -35,11 +25,11 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 <a href="#empreendedorismo">Empreendedorismo</a> | | | 60h
 <a href="#programação-ii">Programação II</a> | | | 120h
 
-## Detalhes das disciplinas
+-----
 
 Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso, assim como seus respectivos docentes.
 
-### Banco de Dados
+## Banco de Dados
 
 Conteúdos abordados:
 
@@ -54,27 +44,27 @@ Ministrada por:
 <br>
 <a href="https://www.linkedin.com/in/leila-lisiane-rossi-0aa16998/"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&labelColor=0a66c2&color=0a66c2"/></a>
 
-### Desenvolvimento de Projetos
+## Desenvolvimento de Projetos
 
-### Empreendedorismo
+## Empreendedorismo
 
-### Engenharia de Software
+## Engenharia de Software
 
-### Fundamentos da Informática
+## Fundamentos da Informática
 
-### Hardware e Sistemas Operacionais
+## Hardware e Sistemas Operacionais
 
-### Lógica de Programação
+## Lógica de Programação
 
-### Multimídia
+## Multimídia
 
-### Programação I
+## Programação I
 
-### Programação II
+## Programação II
 
-### Redes
+## Redes
 
-### Web Design
+## Web Design
 
 Nessa seção, serão abordados os detalhes de cada uma das disciplinas oferecidas pelo **Curso Técnico em Informática**. 
 

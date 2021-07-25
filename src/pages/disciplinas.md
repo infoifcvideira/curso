@@ -1,10 +1,6 @@
-# :computer: Disciplinas
-
-<img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/>
+# Disciplinas
 
 <a href="../../README.md"><img src="https://img.shields.io/badge/-Voltar%20ao%20in%C3%ADcio-green?style=for-the-badge&color=fc6f03"/></a>
-
-## Matriz Curricular
 
 Clique em um componente curricular para vê-lo detalhadamente, ou continue rolando para baixo até os *detalhes das disciplinas*.
 

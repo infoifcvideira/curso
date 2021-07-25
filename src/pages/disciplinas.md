@@ -41,7 +41,17 @@ Nessa seção, você encontrará os conteúdos abordados em cada disciplina do c
 
 ### Banco de Dados
 
+Disciplina do 2° ano do ensino médio, aborda os seguintes conteúdos:
 
+- SQL: Linguagem de definição de dados (DDL);
+- Linguagem de manipulação de dados (DML);
+- Fundamentos sobre: Permissões de acesso, segurança e transações.
+
+Ministrada por: 
+
+Leila Lisiane Rossi
+Mestre em Ciência da Computação
+<a href="https://www.linkedin.com/in/leila-lisiane-rossi-0aa16998/">LinkedIn</a>
 
 ### Desenvolvimento de Projetos
 

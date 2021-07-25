@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/ifc.oficial.videira/"><img src="https://img.shields.io/badge/Instagram-ifc.oficial.videira-e4465e.svg?style=for-the-badge&logo=Instagram&logoWidth=30&labelColor=fafafa"/></a>
 
 
-<a href="../../README.md">← Voltar ao início</a>
+<a href="../../README.md"><img src="https://img.shields.io/badge/-Voltar%20ao%20in%C3%ADcio-green?style=for-the-badge&color=fc6f03"/></a>
 
 ### Navegação 
 <ul>

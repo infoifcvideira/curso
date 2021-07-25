@@ -61,7 +61,3 @@ Ministrada por:
 ## Redes
 
 ## Web Design
-
-Nessa seção, serão abordados os detalhes de cada uma das disciplinas oferecidas pelo **Curso Técnico em Informática**. 
-
-

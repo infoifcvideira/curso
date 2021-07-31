@@ -44,7 +44,7 @@ Conteúdos abordados:
 - Normas técnicas do trabalho científico - ABNT;
 - Apresentar trabalhos científicos observando o rigor didático-metodológico.
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Empreendedorismo
@@ -59,7 +59,7 @@ Conteúdos abordados:
 - Funções Administrativas;
 - Plano de Negócio.
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Engenharia de Software
@@ -72,7 +72,7 @@ Conteúdos abordados:
 - Testes;
 - Controle de versão.
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Fundamentos de Informática
@@ -91,7 +91,7 @@ Conteúdos abordados:
 - Informática e sociedade;
 - Informática e meio ambiente e aspectos legais do software.
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Hardware e Sistemas Operacionais
@@ -103,7 +103,7 @@ Conteúdos abordados:
     - Conceitos sobre processador, memórias, placa-mãe, placas de expansão, sistemas de armazenamento, periféricos de entrada e saída, fonte de alimentação, aceleradoras gráficas;
     - Montagem e manutenção de computadores;
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a><br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 - Sistemas Operacionais:
     - Introdução à Sistemas Operacionais;
@@ -114,7 +114,7 @@ Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a><br>
     - Sistemas de arquivos;
     - Recuperação de desastres com dados.
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Lógica de Programação
@@ -133,7 +133,7 @@ Conteúdos abordados:
 - Implementação de algoritmos.
 
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Multimídia
@@ -147,7 +147,7 @@ Conteúdos abordados:
 - O uso da multimídia na acessibilidade.
 
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Programação I
@@ -160,7 +160,7 @@ Conteúdos abordados:
 - Implementação de software com uma linguagem de programação integrada com banco de dados.
 
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Programação II
@@ -174,7 +174,7 @@ Conteúdos abordados:
 - Tecnologias atuais.
 
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 ## Redes
@@ -189,7 +189,7 @@ Conteúdos abordados:
 - Aspectos de segurança em redes.
 
 <br>
-Ministrada por: <a href="#"><b>Leila Lisiane Rossi</b></a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
 

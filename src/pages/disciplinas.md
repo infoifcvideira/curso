@@ -51,7 +51,7 @@ Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 
 Conteúdos abordados:
 
-- Empreendedorismo e Intraempreendedorismo;
+- Empreendedorismo e Intraempreendedorismo:
     - Conceitos;
     - Características;
     - Perfil;

@@ -33,7 +33,7 @@ Conteúdos abordados:
 - Linguagem de manipulação de dados (DML);
 - Fundamentos sobre: Permissões de acesso, segurança e transações.
 <br>
-Ministrada por: <a href="#">**Leila Lisiane Rossi**</a>
+Ministrada por: <a href="#"><b>Leila Lisiane Rossi</b></a>
 <br>
 
 ## Desenvolvimento de Projetos

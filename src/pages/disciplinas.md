@@ -59,7 +59,7 @@ Conteúdos abordados:
 - Funções Administrativas;
 - Plano de Negócio.
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="#"><b>Nadir Paula da Rosa</b></a>
 <br>
 
 ## Engenharia de Software

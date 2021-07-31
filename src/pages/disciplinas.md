@@ -189,8 +189,9 @@ Conteúdos abordados:
 - Aspectos de segurança em redes.
 
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Leila Lisiane Rossi</b></a>
 <br>
+
 
 ## Web Design
 

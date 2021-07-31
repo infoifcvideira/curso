@@ -204,5 +204,5 @@ Conteúdos abordados:
 - Manipulação de páginas web dinâmicas com Javascript.
 
 <br>
-Ministrada por: <a href="#">**Professor(a) desconhecido(a)**</a>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>

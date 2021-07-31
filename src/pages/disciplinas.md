@@ -86,7 +86,7 @@ Conteúdos abordados:
     - Editor de texto;
     - Planilha de cálculo;
     - Software de apresentação.
-- Internet. 
+- Internet;
 - O profissional da informática;
 - Informática e sociedade;
 - Informática e meio ambiente e aspectos legais do software.
@@ -114,7 +114,7 @@ Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
     - Máquinas virtuais;
     - Sistemas de arquivos;
     - Recuperação de desastres com dados.
-    
+
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>

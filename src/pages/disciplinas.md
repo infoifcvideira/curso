@@ -105,6 +105,7 @@ Conteúdos abordados:
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
+
 - Sistemas Operacionais:
     - Introdução à Sistemas Operacionais;
     - Introdução ao Windows e Linux;
@@ -113,6 +114,7 @@ Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
     - Máquinas virtuais;
     - Sistemas de arquivos;
     - Recuperação de desastres com dados.
+    
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>

@@ -91,7 +91,7 @@ Conteúdos abordados:
 - Implementação de algoritmos.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#wanderson-rigo"><b>Wanderson Rigo</b></a>
 <br>
 
 ## Multimídia
@@ -105,7 +105,7 @@ Conteúdos abordados:
 - O uso da multimídia na acessibilidade.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício Natanael Ferreira</b></a>
 <br>
 
 ## Web Design

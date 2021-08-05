@@ -45,7 +45,7 @@ Conteúdos abordados:
 - O profissional da informática;
 - Informática e sociedade;
 - Informática e meio ambiente e aspectos legais do software.
-<br>
+
 Ministrada por: <a href="docentes.md/#rosângela-aguiar-adam"><b>Rosângela Aguiar Adam</b></a>
 <br>
 
@@ -59,7 +59,7 @@ Conteúdos abordados:
     - Montagem e manutenção de computadores;
     
 Ministrada por: <a href="docentes.md/#fabiana-rubini"><b>Fabiana Rubini</b></a>
-<br>
+
 <br>
 
 - Sistemas Operacionais:
@@ -89,7 +89,6 @@ Conteúdos abordados:
 - Introdução a linguagem de programação;
 - Implementação de algoritmos.
 
-<br>
 Ministrada por: <a href="docentes.md/#wanderson-rigo"><b>Wanderson Rigo</b></a>
 <br>
 
@@ -103,7 +102,6 @@ Conteúdos abordados:
 - Multimídia na Internet;
 - O uso da multimídia na acessibilidade.
 
-<br>
 Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício Natanael Ferreira</b></a>
 <br>
 
@@ -117,7 +115,6 @@ Conteúdos abordados:
 - Padrões Web; 
 - Manipulação de páginas web dinâmicas com Javascript.
 
-<br>
 Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício Natanael Ferreira</b></a>
 <br>
 
@@ -130,7 +127,7 @@ Conteúdos abordados:
 - SQL: Linguagem de definição de dados (DDL);
 - Linguagem de manipulação de dados (DML);
 - Fundamentos sobre: Permissões de acesso, segurança e transações.
-<br>
+
 Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
 <br>
 
@@ -143,7 +140,7 @@ Conteúdos abordados:
 - UML;
 - Testes;
 - Controle de versão.
-<br>
+
 Ministrada por: <a href="docentes.md/#fabiana-rubini"><b>Fabiana Rubini</b></a>
 <br>
 
@@ -156,7 +153,6 @@ Conteúdos abordados:
 - Tratamento de Exceções;
 - Implementação de software com uma linguagem de programação integrada com banco de dados.
 
-<br>
 Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Krohl</b></a>
 <br>
 
@@ -171,7 +167,6 @@ Conteúdos abordados:
 - Configuração de redes locais física e lógica;
 - Aspectos de segurança em redes.
 
-<br>
 Ministrada por: <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a>
 <br>
 
@@ -188,7 +183,7 @@ Conteúdos abordados:
 - Inovação;
 - Funções Administrativas;
 - Plano de Negócio.
-<br>
+
 Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Rosa</b></a>
 <br>
 
@@ -199,8 +194,8 @@ Conteúdos abordados:
 - Métodos e técnicas de pesquisa;
 - Normas técnicas do trabalho científico - ABNT;
 - Apresentar trabalhos científicos observando o rigor didático-metodológico.
-<br>
-Ministrada por: <b>A contratar.</b>
+
+Ministrada por: <b>A contratar.</b> 
 <br>
 
 ## Programação II
@@ -213,7 +208,6 @@ Conteúdos abordados:
 - Frameworks;
 - Tecnologias atuais.
 
-<br>
 Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio José Rodrigues Pinheiro</b></a>
 <br>
 
@@ -232,7 +226,6 @@ Conteúdos abordados:
 - Utilização de Software para criação de interface;
 - Usabilidade
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -243,7 +236,6 @@ Conteúdos abordados:
 - Montagem do ambiente para desenvolvimento de aplicativos;
 - Acesso a recursos do dispositivo.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -256,7 +248,6 @@ Conteúdos abordados:
 - Linguagem Cinematográfica;
 - Técnicas de edição de vídeo.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -267,7 +258,6 @@ Conteúdos abordados:
 - Configuração do ambiente para programação web;
 - Utilização de framework em linguagem web.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -280,7 +270,6 @@ Conteúdos abordados:
 - Eletrônica;
 - Programação Básica.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -294,7 +283,6 @@ Conteúdos abordados:
 - Proteção jurídica do software;
 - Crimes de Computador.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -306,7 +294,6 @@ Conteúdos abordados:
 - Preparação do ambiente para modelagem;
 - Software de edição 3D.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -317,7 +304,6 @@ Conteúdos abordados:
 - Recursos avançados de folhas de estilo;
 - Recursos de linguagem de programação front-end.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -329,7 +315,6 @@ Conteúdos abordados:
 - Arquitetura da aplicação para dispositivos móveis;
 - Acesso a recursos do dispositivo.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -344,7 +329,6 @@ Conteúdos abordados:
     - Arquitetura de redes e subredes;
     - Principais protocolos de aplicação e serviços.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -357,7 +341,6 @@ Conteúdos abordados:
 - Subsistemas de cabeamento estruturado;
 - Projeto e certificação de um cabeamento estruturado.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -369,7 +352,6 @@ Conteúdos abordados:
 - Avaliação de Usabilidade e Acessibilidade;
 - Usabilidade e Ergonomia Cognitiva.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -382,7 +364,6 @@ Conteúdos abordados:
 - Design de interação;
 - Validação de ideias;
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>
 
@@ -393,6 +374,5 @@ Conteúdos abordados:
 - Recursos Avançados de CSS;
 - Bibliotecas JavaScript.
 
-<br>
 Ministrada por: <b>A contratar.</b>
 <br>

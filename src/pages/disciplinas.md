@@ -200,7 +200,7 @@ Conteúdos abordados:
 - Normas técnicas do trabalho científico - ABNT;
 - Apresentar trabalhos científicos observando o rigor didático-metodológico.
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Programação II
@@ -233,7 +233,7 @@ Conteúdos abordados:
 - Usabilidade
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Desenvolvimento de aplicações multi-plataformas
@@ -244,7 +244,7 @@ Conteúdos abordados:
 - Acesso a recursos do dispositivo.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Edição de Áudio e Vídeo
@@ -257,7 +257,7 @@ Conteúdos abordados:
 - Técnicas de edição de vídeo.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Framework para programação web
@@ -268,7 +268,7 @@ Conteúdos abordados:
 - Utilização de framework em linguagem web.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Introdução à Robótica
@@ -281,7 +281,7 @@ Conteúdos abordados:
 - Programação Básica.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Legislação Aplicada à Informática
@@ -295,7 +295,7 @@ Conteúdos abordados:
 - Crimes de Computador.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Modelagem 3D
@@ -307,7 +307,7 @@ Conteúdos abordados:
 - Software de edição 3D.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Programação Front-End
@@ -318,7 +318,7 @@ Conteúdos abordados:
 - Recursos de linguagem de programação front-end.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Programação Mobile
@@ -330,7 +330,7 @@ Conteúdos abordados:
 - Acesso a recursos do dispositivo.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Redes II
@@ -345,7 +345,7 @@ Conteúdos abordados:
     - Principais protocolos de aplicação e serviços.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Redes III
@@ -358,7 +358,7 @@ Conteúdos abordados:
 - Projeto e certificação de um cabeamento estruturado.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Usabilidade e Acessibilidade
@@ -370,7 +370,7 @@ Conteúdos abordados:
 - Usabilidade e Ergonomia Cognitiva.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## UX Digital: Experiência do Usuário em Plataformas Digitais;
@@ -383,7 +383,7 @@ Conteúdos abordados:
 - Validação de ideias;
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>
 
 ## Web Design Avançado
@@ -394,5 +394,5 @@ Conteúdos abordados:
 - Bibliotecas JavaScript.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <b>A contratar.</b>
 <br>

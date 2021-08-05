@@ -18,62 +18,18 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 <a href="#redes">Redes</a> | | 60h
 -| - | - | - |
 <a href="#desenvolvimento-de-projetos">Desenvolvimento de Projetos</a> | | | 120h
-<a href="#empreendedorismo">Empreendedorismo</a> | | | 60h
+<a href="#adiministração-e-empreendedorismo">Administração e Empreendedorismo</a> | | | 60h
 <a href="#programação-ii">Programação II</a> | | | 120h
+-| - | - | - |
+<a href="#disciplinas-optativas">Optativa I</a> | | 60h
+<a href="#disciplinas-optativas">Optativa II</a> | | | 60h
+<a href="#disciplinas-optativas">Optativa III</a> | | | 60h
 
 -----
 
 Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso, assim como seus respectivos docentes.
 
-## Banco de Dados
-
-Conteúdos abordados:
-
-- SQL: Linguagem de definição de dados (DDL);
-- Linguagem de manipulação de dados (DML);
-- Fundamentos sobre: Permissões de acesso, segurança e transações.
-<br>
-Ministrada por: <a href="#"><b>Leila Lisiane Rossi</b></a>
-<br>
-
-## Desenvolvimento de Projetos
-
-Conteúdos abordados:
-
-- Métodos e técnicas de pesquisa;
-- Normas técnicas do trabalho científico - ABNT;
-- Apresentar trabalhos científicos observando o rigor didático-metodológico.
-<br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
-<br>
-
-## Empreendedorismo
-
-Conteúdos abordados:
-
-- Empreendedorismo e Intraempreendedorismo:
-    - Conceitos;
-    - Características;
-    - Perfil;
-- Inovação;
-- Funções Administrativas;
-- Plano de Negócio.
-<br>
-Ministrada por: <a href="#"><b>Nadir Paula da Rosa</b></a>
-<br>
-
-## Engenharia de Software
-
-Conteúdos abordados:
-
-- Modelos de processos e metodologias ágeis;
-- Levantamento e Análise de Requisitos;
-- UML;
-- Testes;
-- Controle de versão.
-<br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
-<br>
+# 1° ano
 
 ## Fundamentos de Informática
 
@@ -152,6 +108,46 @@ Conteúdos abordados:
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
+## Web Design
+
+Conteúdos abordados:
+
+- Introdução a Usabilidade e a Criação de Interfaces gráficas;
+- Estruturação de páginas Web com HTML;
+- Formatação de estilo e apresentação de páginas Web com CSS;
+- Padrões Web; 
+- Manipulação de páginas web dinâmicas com Javascript.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+# 2° ano
+
+## Banco de Dados
+
+Conteúdos abordados:
+
+- SQL: Linguagem de definição de dados (DDL);
+- Linguagem de manipulação de dados (DML);
+- Fundamentos sobre: Permissões de acesso, segurança e transações.
+<br>
+Ministrada por: <a href="#"><b>Leila Lisiane Rossi</b></a>
+<br>
+
+## Engenharia de Software
+
+Conteúdos abordados:
+
+- Modelos de processos e metodologias ágeis;
+- Levantamento e Análise de Requisitos;
+- UML;
+- Testes;
+- Controle de versão.
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
 ## Programação I
 
 Conteúdos abordados:
@@ -160,20 +156,6 @@ Conteúdos abordados:
 - Fundamentos de uma linguagem de programação orientada a objetos; 
 - Tratamento de Exceções;
 - Implementação de software com uma linguagem de programação integrada com banco de dados.
-
-<br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
-<br>
-
-## Programação II
-
-Conteúdos abordados:
-
-- Implementação de aplicação web;
-- Integração com Banco de Dados;
-- Bibliotecas; 
-- Frameworks;
-- Tecnologias atuais.
 
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
@@ -194,16 +176,111 @@ Conteúdos abordados:
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
+# 3° ano
 
-## Web Design
+## Administração e Empreendedorismo
 
 Conteúdos abordados:
 
-- Introdução a Usabilidade e a Criação de Interfaces gráficas;
-- Estruturação de páginas Web com HTML;
-- Formatação de estilo e apresentação de páginas Web com CSS;
-- Padrões Web; 
-- Manipulação de páginas web dinâmicas com Javascript.
+- Empreendedorismo e Intraempreendedorismo:
+    - Conceitos;
+    - Características;
+    - Perfil;
+- Inovação;
+- Funções Administrativas;
+- Plano de Negócio.
+<br>
+Ministrada por: <a href="#"><b>Nadir Paula da Rosa</b></a>
+<br>
+
+## Desenvolvimento de Projetos
+
+Conteúdos abordados:
+
+- Métodos e técnicas de pesquisa;
+- Normas técnicas do trabalho científico - ABNT;
+- Apresentar trabalhos científicos observando o rigor didático-metodológico.
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Programação II
+
+Conteúdos abordados:
+
+- Implementação de aplicação web;
+- Integração com Banco de Dados;
+- Bibliotecas; 
+- Frameworks;
+- Tecnologias atuais.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+# Disciplinas optativas
+
+## Desenvolvimento de aplicações multi-plataformas
+
+Conteúdos abordados:
+
+- Montagem do ambiente para desenvolvimento de aplicativos;
+- Acesso a recursos do dispositivo.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Introdução à Robótica
+
+Conteúdos abordados:
+
+- Fundamentos de Robótica;
+- Motores;
+- Eletrônica;
+- Programação Básica.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Legislação aplicada à informática
+
+Conteúdos abordados:
+
+- Hierarquia das Leis;
+- Divisão Geral do Direito;
+- Marcos legais do Direito à Informática;
+- Proteção jurídica do software;
+- Crimes de Computador.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Redes II
+
+Conteúdos abordados:
+
+- Protocolo IP: 
+    - Estrutura;
+    - Endereçamento;
+    - Roteamento e encaminhamento;
+    - Arquitetura de redes e subredes;
+    - Principais protocolos de aplicação e serviços.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Redes III
+
+Conteúdos abordados:
+
+- Meios de transmissão;
+- Normas e padrões em cabeamento estruturado;
+- Subsistemas de cabeamento estruturado;
+- Projeto e certificação de um cabeamento estruturado.
 
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>

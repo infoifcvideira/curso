@@ -66,6 +66,10 @@ Redes | | 60h
 Desenvolvimento de Projetos | | | 120h
 Empreendedorismo | | | 60h
 Programação II | | | 120h
+-| - | - | - |
+Optativa I | | 60h
+Optativa II | | | 60h
+Optativa III | | | 60h
 
 <a href="src/pages/disciplinas.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=037623"/></a>
 

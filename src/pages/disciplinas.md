@@ -58,8 +58,9 @@ Conteúdos abordados:
     - Introdução aos componentes de hardware de um computador;
     - Conceitos sobre processador, memórias, placa-mãe, placas de expansão, sistemas de armazenamento, periféricos de entrada e saída, fonte de alimentação, aceleradoras gráficas;
     - Montagem e manutenção de computadores;
-<br>
+    
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
 <br>
 
 - Sistemas Operacionais:
@@ -71,7 +72,6 @@ Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
     - Sistemas de arquivos;
     - Recuperação de desastres com dados.
 
-<br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 

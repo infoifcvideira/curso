@@ -213,7 +213,7 @@ Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio
 
 # Disciplinas optativas
 
-As disciplinas optativas são aquelas que o aluno *não* tem a obrigação de fazer, mas caso queira, tem a liberdade de se inscrever e participar das aulas.
+As disciplinas optativas são aquelas que o aluno **não** tem a obrigação de fazer, mas caso queira, tem a liberdade de se inscrever e participar das aulas.
 
 ## Criação de Interfaces Digitais
 

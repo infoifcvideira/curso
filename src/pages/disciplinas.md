@@ -219,12 +219,53 @@ Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio
 
 # Disciplinas optativas
 
+As disciplinas optativas são aquelas que o aluno *não* tem a obrigação de fazer, mas caso queira, tem a liberdade de se inscrever e participar das aulas.
+
+## Criação de Interfaces Digitais
+
+Conteúdos abordados:
+
+- Coiceito de imagem;
+- Grid;
+- Tipos de Layout;
+- Fundamentos de arquitetura de informação;
+- Utilização de Software para criação de interface;
+- Usabilidade
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
 ## Desenvolvimento de aplicações multi-plataformas
 
 Conteúdos abordados:
 
 - Montagem do ambiente para desenvolvimento de aplicativos;
 - Acesso a recursos do dispositivo.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Edição de Áudio e Vídeo
+
+Conteúdos abordados:
+
+- Fundamentos de Som;
+- Técnicas de edição de som;
+- Linguagem Cinematográfica;
+- Técnicas de edição de vídeo.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Framework para programação web
+
+Conteúdos abordados:
+
+- Configuração do ambiente para programação web;
+- Utilização de framework em linguagem web.
 
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
@@ -243,7 +284,7 @@ Conteúdos abordados:
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
-## Legislação aplicada à informática
+## Legislação Aplicada à Informática
 
 Conteúdos abordados:
 
@@ -252,6 +293,41 @@ Conteúdos abordados:
 - Marcos legais do Direito à Informática;
 - Proteção jurídica do software;
 - Crimes de Computador.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Modelagem 3D
+
+Conteúdos abordados:
+
+- Introdução à Modelagem 3D;
+- Preparação do ambiente para modelagem;
+- Software de edição 3D.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Programação Front-End
+
+Conteúdos abordados:
+
+- Recursos avançados de folhas de estilo;
+- Recursos de linguagem de programação front-end.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Programação Mobile
+
+Conteúdos abordados:
+
+- Montagem do ambiente de desenvolvimento;
+- Arquitetura da aplicação para dispositivos móveis;
+- Acesso a recursos do dispositivo.
 
 <br>
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
@@ -285,3 +361,38 @@ Conteúdos abordados:
 Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
 <br>
 
+## Usabilidade e Acessibilidade
+
+Conteúdos abordados:
+
+- Web Acessível;
+- Avaliação de Usabilidade e Acessibilidade;
+- Usabilidade e Ergonomia Cognitiva.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## UX Digital: Experiência do Usuário em Plataformas Digitais;
+
+Conteúdos abordados:
+
+- Conceitos básicos de UX;
+- Concepção do projeto;
+- Design de interação;
+- Validação de ideias;
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>
+
+## Web Design Avançado
+
+Conteúdos abordados:
+
+- Recursos Avançados de CSS;
+- Bibliotecas JavaScript.
+
+<br>
+Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+<br>

@@ -13,11 +13,9 @@
         </li>
         <li>
             <a href="#disciplinas">Disciplinas</a>
-            <ul>
-                <li>
-                    <a href="#matriz-curricular">Matriz Curricular</a>
-                </li>
-            </ul>
+        </li>
+        <li>
+            <a href="#quadro-docente">Quadro Docente</a>
         </li>
         <li>
             <a href="#eventos">Eventos</a>
@@ -73,6 +71,24 @@ Optativa III | | | 60h
 
 <a href="src/pages/disciplinas.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=037623"/></a>
 
+## Quadro Docente
+
+O atual quadro docente de informática é composto por 10 professores. Acompanhe a tabela a seguir para visualizar as disciplinas ministradas por cada docente:
+
+Docente | Disciplinas Ministradas 
+:------:  | :-------:
+Diego Ricardo Krohl | Programação I 
+Fabiana Rubini | Engenharia de Software I, Hardware
+Fábio José Rodrigues Pinheiro | Programação II 
+Leila Lisiane Rossi | Banco de Dados  
+Maurício Natanael Ferreira | Multimídia, Web Design
+Nadir Paula da Rosa | Administração e Empreendedorismo
+Rosa Maria Pascoali | Redes
+Rosângela Aguiar Adam | Fundamentos da Informática
+Wagner Carlos Mariani | Sistemas Operacionais
+Wanderson Rigo | Lógica de Programação
+
+<a href="src/pages/docentes.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20cada%20docente-green?style=for-the-badge&color=037623"/></a>
 ## Eventos
 
 ## Depoimentos de egressos

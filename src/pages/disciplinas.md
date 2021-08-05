@@ -16,12 +16,11 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 <a href="#engenharia-de-software">Engenharia de Software</a> | | 60h 
 <a href="#programação-i">Programação I</a> | | 120h
 <a href="#redes">Redes</a> | | 60h
+<a href="#disciplinas-optativas">Optativa I</a> | | 60h
 -| - | - | - |
 <a href="#desenvolvimento-de-projetos">Desenvolvimento de Projetos</a> | | | 120h
 <a href="#adiministração-e-empreendedorismo">Administração e Empreendedorismo</a> | | | 60h
 <a href="#programação-ii">Programação II</a> | | | 120h
--| - | - | - |
-<a href="#disciplinas-optativas">Optativa I</a> | | 60h
 <a href="#disciplinas-optativas">Optativa II</a> | | | 60h
 <a href="#disciplinas-optativas">Optativa III</a> | | | 60h
 
@@ -47,7 +46,7 @@ Conteúdos abordados:
 - Informática e sociedade;
 - Informática e meio ambiente e aspectos legais do software.
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#rosângela-aguiar-adam"><b>Rosângela Aguiar Adam</b></a>
 <br>
 
 ## Hardware e Sistemas Operacionais
@@ -59,7 +58,7 @@ Conteúdos abordados:
     - Conceitos sobre processador, memórias, placa-mãe, placas de expansão, sistemas de armazenamento, periféricos de entrada e saída, fonte de alimentação, aceleradoras gráficas;
     - Montagem e manutenção de computadores;
     
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#fabiana-rubini"><b>Fabiana Rubini</b></a>
 <br>
 <br>
 
@@ -72,7 +71,7 @@ Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
     - Sistemas de arquivos;
     - Recuperação de desastres com dados.
 
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#wagner-carlos-mariani"><b>Wagner Carlos Mariani</b></a>
 <br>
 
 ## Lógica de Programação
@@ -119,7 +118,7 @@ Conteúdos abordados:
 - Manipulação de páginas web dinâmicas com Javascript.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício Natanael Ferreira</b></a>
 <br>
 
 # 2° ano
@@ -132,7 +131,7 @@ Conteúdos abordados:
 - Linguagem de manipulação de dados (DML);
 - Fundamentos sobre: Permissões de acesso, segurança e transações.
 <br>
-Ministrada por: <a href="#"><b>Leila Lisiane Rossi</b></a>
+Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
 <br>
 
 ## Engenharia de Software
@@ -145,7 +144,7 @@ Conteúdos abordados:
 - Testes;
 - Controle de versão.
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#fabiana-rubini"><b>Fabiana Rubini</b></a>
 <br>
 
 ## Programação I
@@ -158,7 +157,7 @@ Conteúdos abordados:
 - Implementação de software com uma linguagem de programação integrada com banco de dados.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Krohl</b></a>
 <br>
 
 ## Redes
@@ -173,7 +172,7 @@ Conteúdos abordados:
 - Aspectos de segurança em redes.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a>
 <br>
 
 # 3° ano
@@ -190,7 +189,7 @@ Conteúdos abordados:
 - Funções Administrativas;
 - Plano de Negócio.
 <br>
-Ministrada por: <a href="#"><b>Nadir Paula da Rosa</b></a>
+Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Rosa</b></a>
 <br>
 
 ## Desenvolvimento de Projetos
@@ -215,7 +214,7 @@ Conteúdos abordados:
 - Tecnologias atuais.
 
 <br>
-Ministrada por: <a href="#"><b>Professor(a) desconhecido(a)</b></a>
+Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio José Rodrigues Pinheiro</b></a>
 <br>
 
 # Disciplinas optativas

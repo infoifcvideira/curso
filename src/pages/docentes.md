@@ -31,12 +31,7 @@ No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exi
 
 ## Leila Lisiane Rossi
 
-
-No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais.
-
-No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais.
-
-No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais.
+<img src="../img/leila-lisiane-rossi.png" alt="Imagem do docente">
 
 ## Maurício Natanael Ferreira
 

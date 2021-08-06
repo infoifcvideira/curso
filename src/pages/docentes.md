@@ -8,7 +8,7 @@
 
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&labelColor=0a66c2&color=0a66c2"/></a>
 
-<a href=""><img src="https://img.shields.io/badge/Lattes-red?style=for-the-badge&logo=data:latteslogo&labelColor=0a66c2&color=0a66c2"/></a>
+<a href=""><img src="https://img.shields.io/badge/Lattes-red?style=for-the-badge&logo=data:latteslogo.png&labelColor=0a66c2&color=0a66c2"/></a>
 
 
 ## Fabiana Rubini

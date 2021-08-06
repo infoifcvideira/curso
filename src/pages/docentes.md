@@ -30,7 +30,7 @@ No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exi
 
 ## Leila Lisiane Rossi
 
-<img src="../img/leila-lisiane-rossi.png" alt="Foto do docente" align=right width=200/>
+<img src="../img/leila-lisiane-rossi.png" alt="Foto do docente" align=right width=128/>
 
 **Graduação**: -- <br>
 **Última Formação**: -- <br>
@@ -42,7 +42,7 @@ No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exi
 
 ## Maurício Natanael Ferreira
 
-<img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=right width=200/>
+<img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=right width=128/>
 
 **Graduação**: Bacharelado em Sistemas de Informação <br>
 **Última Formação**: Especialização em Desenvolvimento Web <br>

@@ -4,11 +4,11 @@
 
 ## Diego Ricardo Krohl
 
-No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais.
+[ Foto ]
 
-No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais. No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais.
+<a href=""><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&labelColor=0a66c2&color=0a66c2"/></a>
 
-No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exige a precisão e a definição do remanejamento dos quadros funcionais.
+<a href=""><img src="https://img.shields.io/badge/Lattes-red?style=for-the-badge&logo=data:../img/lattes-logo.png&labelColor=0a66c2&color=0a66c2"/></a>
 
 
 ## Fabiana Rubini

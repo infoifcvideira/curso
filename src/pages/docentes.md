@@ -44,7 +44,7 @@ No mundo atual, o desenvolvimento contínuo de distintas formas de atuação exi
 
 <img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=right width=128/>
 
-**:blue_book: Graduação**: Bacharelado em Sistemas de Informação <br>
+**:mortar_board: Graduação**: Bacharelado em Sistemas de Informação <br>
 **:closed_book: Última Formação**: Especialização em Desenvolvimento Web <br>
 **:e-mail: E-mail**: mauricio.ferreira@ifc.edu.br <br>
 **:books: Áreas de pesquisa**: Desenvolvimento de Softwares e Programação. <br>

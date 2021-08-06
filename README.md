@@ -60,12 +60,11 @@ Banco de Dados | | 90h
 Engenharia de Software | | 60h 
 Programação I | | 120h
 Redes | | 60h
+Optativa I | | 60h
 -| - | - | - |
 Desenvolvimento de Projetos | | | 120h
 Empreendedorismo | | | 60h
 Programação II | | | 120h
--| - | - | - |
-Optativa I | | 60h
 Optativa II | | | 60h
 Optativa III | | | 60h
 

@@ -55,7 +55,7 @@ Hardware e Sistemas Operacionais | 120h
 Lógica de Programação | 120h 
 Multimídia | 90h  
 Web Design | 60h
--| - | - | - |
+‎| ‎ | ‎ | ‎ |
 Banco de Dados | | 90h 
 Engenharia de Software | | 60h 
 Programação I | | 120h

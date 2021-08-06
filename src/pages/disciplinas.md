@@ -11,13 +11,13 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 <a href="#lógica-de-programação">Lógica de Programação</a> | 120h 
 <a href="#multimídia">Multimídia</a> | 90h  
 <a href="#web-design">Web Design</a> | 60h
--| - | - | - |
+‎| ‎ | ‎ | ‎ |
 <a href="#banco-de-dados">Banco de Dados</a> | | 90h 
 <a href="#engenharia-de-software">Engenharia de Software</a> | | 60h 
 <a href="#programação-i">Programação I</a> | | 120h
 <a href="#redes">Redes</a> | | 60h
 <a href="#disciplinas-optativas">Optativa I</a> | | 60h
--| - | - | - |
+‎| ‎ | ‎ | ‎ |
 <a href="#desenvolvimento-de-projetos">Desenvolvimento de Projetos</a> | | | 120h
 <a href="#adiministração-e-empreendedorismo">Administração e Empreendedorismo</a> | | | 60h
 <a href="#programação-ii">Programação II</a> | | | 120h

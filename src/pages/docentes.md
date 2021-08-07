@@ -90,7 +90,7 @@
 
 ## Rosangela Aguiar Adam
 
-<img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/rosangela-aguiar-adam.png" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Mestrado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Especialização em Computação <br>

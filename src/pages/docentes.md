@@ -6,7 +6,7 @@
 
 <img src="../img/diego-krohl.jpg" alt="Foto do docente " align=right width=128/>
 
-**:mortar_board: Graduação**: Doutorado em Educação Científica e Tecnológica -- <br>
+**:mortar_board: Graduação**: Doutorado em Educação Científica e Tecnológica<br>
 **:closed_book: Última Formação**: Mestrado em Engenharia de Processos <br>
 **:e-mail: E-mail**: diego.krohl@ifc.edu.br <br>
 **:books: Áreas de pesquisa**: Inovação Tecnológica, Inteligência Computacional Aplicada e Programação <br>

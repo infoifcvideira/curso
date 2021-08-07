@@ -78,7 +78,7 @@
 
 ## Rosa Maria Pascoali
 
-<img src="../img/rosa-maria-pascoali-ORIGINAL.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/rosa-maria-pascoali.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: Mestrado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Doutorado em Ciências da Educação <br>
@@ -90,7 +90,7 @@
 
 ## Rosângela Aguiar Adam
 
-<img src="../img/rosa-maria-pascoali-MINIFY.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: -- <br>
 **:closed_book: Última Formação**: -- <br>
@@ -102,7 +102,7 @@
 
 ## Wagner Carlos Mariani
 
-<img src="../img/rosa-maria-pascoali-ONLYMINIFY.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: -- <br>
 **:closed_book: Última Formação**: -- <br>

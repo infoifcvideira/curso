@@ -19,7 +19,7 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 <a href="#disciplinas-optativas">Optativa I</a> | | 60h
 ‎| ‎ | ‎ | ‎ |
 <a href="#desenvolvimento-de-projetos">Desenvolvimento de Projetos</a> | | | 120h
-<a href="#adiministração-e-empreendedorismo">Administração e Empreendedorismo</a> | | | 60h
+<a href="#administração-e-empreendedorismo">Administração e Empreendedorismo</a> | | | 60h
 <a href="#programação-ii">Programação II</a> | | | 120h
 <a href="#disciplinas-optativas">Optativa II</a> | | | 60h
 <a href="#disciplinas-optativas">Optativa III</a> | | | 60h

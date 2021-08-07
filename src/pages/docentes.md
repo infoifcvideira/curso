@@ -106,7 +106,7 @@
 
 **:mortar_board: Graduação**: -- <br>
 **:closed_book: Última Formação**: -- <br>
-**:e-mail: E-mail**: -- <br>
+**:e-mail: E-mail**: wagner.mariani@ifc.edu.br <br>
 **:books: Áreas de pesquisa**: Linux, Redes e Arquitetura de Computadores, Computação Gráfica e  Automação Industrial <br>
 **:pushpin: Disciplinas que ministra**: <a href="">--</a> <br>
 

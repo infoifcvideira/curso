@@ -102,7 +102,7 @@
 
 ## Wagner Carlos Mariani
 
-<img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/rosa-maria-pascoali-ONLYMINIFY.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: -- <br>
 **:closed_book: Última Formação**: -- <br>

@@ -16,7 +16,7 @@
 
 
 
-## Fabiana Rubini
+## Fabiana Mara Rubini
 
 <img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
 

@@ -58,7 +58,7 @@ Conteúdos abordados:
     - Conceitos sobre processador, memórias, placa-mãe, placas de expansão, sistemas de armazenamento, periféricos de entrada e saída, fonte de alimentação, aceleradoras gráficas;
     - Montagem e manutenção de computadores;
     
-Ministrada por: <a href="docentes.md/#fabiana-rubini"><b>Fabiana Rubini</b></a>
+Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a>
 
 <br>
 
@@ -141,7 +141,7 @@ Conteúdos abordados:
 - Testes;
 - Controle de versão.
 
-Ministrada por: <a href="docentes.md/#fabiana-rubini"><b>Fabiana Rubini</b></a>
+Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a>
 <br>
 
 ## Programação I

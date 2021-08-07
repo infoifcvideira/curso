@@ -77,7 +77,7 @@ O atual quadro docente de informática é composto por 10 professores. Acompanhe
 Docente | Disciplinas Ministradas 
 :------:  | :-------:
 Diego Ricardo Krohl | Programação I 
-Fabiana Rubini | Engenharia de Software I, Hardware
+Fabiana Mara Rubini | Engenharia de Software I, Hardware
 Fábio José Rodrigues Pinheiro | Programação II 
 Leila Lisiane Rossi | Banco de Dados  
 Maurício Natanael Ferreira | Multimídia, Web Design

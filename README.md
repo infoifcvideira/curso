@@ -83,7 +83,7 @@ Leila Lisiane Rossi | Banco de Dados
 Maurício Natanael Ferreira | Multimídia, Web Design
 Nadir Paula da Rosa | Administração e Empreendedorismo
 Rosa Maria Pascoali | Redes
-Rosângela Aguiar Adam | Fundamentos da Informática
+Rosangela Aguiar Adam | Fundamentos da Informática
 Wagner Carlos Mariani | Sistemas Operacionais
 Wanderson Rigo | Lógica de Programação
 

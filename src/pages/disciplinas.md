@@ -46,7 +46,7 @@ Conteúdos abordados:
 - Informática e sociedade;
 - Informática e meio ambiente e aspectos legais do software.
 
-Ministrada por: <a href="docentes.md/#rosângela-aguiar-adam"><b>Rosângela Aguiar Adam</b></a>
+Ministrada por: <a href="docentes.md/#rosangela-aguiar-adam"><b>Rosangela Aguiar Adam</b></a>
 <br>
 
 ## Hardware e Sistemas Operacionais

@@ -90,7 +90,7 @@
 
 ## Rosângela Aguiar Adam
 
-<img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/rosa-maria-pascoali-MINIFY.jpg" alt="Foto do docente" align=right width=128/>
 
 **:mortar_board: Graduação**: -- <br>
 **:closed_book: Última Formação**: -- <br>

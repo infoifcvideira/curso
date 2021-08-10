@@ -54,7 +54,7 @@
 
 ## Maurício Natanael Ferreira
 
-<img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=left width=128/>
+<img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" margin-bottom=100 align=left width=128/>
 
 <div style="width=128px;">
 

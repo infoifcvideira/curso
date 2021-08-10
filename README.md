@@ -44,7 +44,7 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 
 O **Curso Técnico em Informática** oferece 12 disciplinas totais, considerando os três anos de vigência do discente, a carga horária de cada disciplina foi planejada a fim de obter o melhor aproveitamento dos conteúdos apresentados.
 
-Segue abaixo a *Matriz Curricular* do curso, contendo os componentes curriculares (disciplinas) juntamente com sua respectiva carga horária em cada ano:
+Segue abaixo a *Matriz Curricular* do curso técnico, contendo os componentes curriculares (disciplinas) juntamente com sua respectiva carga horária em cada ano:
 
 ### Matriz Curricular
 

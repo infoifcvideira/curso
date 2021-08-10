@@ -26,7 +26,7 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 
 -----
 
-Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso, assim como seus respectivos docentes.
+Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso técnico, assim como seus respectivos docentes.
 
 # 1° ano
 
@@ -195,7 +195,7 @@ Conteúdos abordados:
 - Normas técnicas do trabalho científico - ABNT;
 - Apresentar trabalhos científicos observando o rigor didático-metodológico.
 
-Ministrada por: <b>A contratar.</b> 
+Ministrada por: <b>A definir.</b> 
 <br>
 
 ## Programação II
@@ -226,7 +226,7 @@ Conteúdos abordados:
 - Utilização de Software para criação de interface;
 - Usabilidade
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Desenvolvimento de aplicações multi-plataformas
@@ -236,7 +236,7 @@ Conteúdos abordados:
 - Montagem do ambiente para desenvolvimento de aplicativos;
 - Acesso a recursos do dispositivo.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Edição de Áudio e Vídeo
@@ -248,7 +248,7 @@ Conteúdos abordados:
 - Linguagem Cinematográfica;
 - Técnicas de edição de vídeo.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Framework para programação web
@@ -258,7 +258,7 @@ Conteúdos abordados:
 - Configuração do ambiente para programação web;
 - Utilização de framework em linguagem web.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Introdução à Robótica
@@ -270,7 +270,7 @@ Conteúdos abordados:
 - Eletrônica;
 - Programação Básica.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Legislação Aplicada à Informática
@@ -283,7 +283,7 @@ Conteúdos abordados:
 - Proteção jurídica do software;
 - Crimes de Computador.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Modelagem 3D
@@ -294,7 +294,7 @@ Conteúdos abordados:
 - Preparação do ambiente para modelagem;
 - Software de edição 3D.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Programação Front-End
@@ -304,7 +304,7 @@ Conteúdos abordados:
 - Recursos avançados de folhas de estilo;
 - Recursos de linguagem de programação front-end.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Programação Mobile
@@ -315,7 +315,7 @@ Conteúdos abordados:
 - Arquitetura da aplicação para dispositivos móveis;
 - Acesso a recursos do dispositivo.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Redes II
@@ -329,7 +329,7 @@ Conteúdos abordados:
     - Arquitetura de redes e subredes;
     - Principais protocolos de aplicação e serviços.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Redes III
@@ -341,7 +341,7 @@ Conteúdos abordados:
 - Subsistemas de cabeamento estruturado;
 - Projeto e certificação de um cabeamento estruturado.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Usabilidade e Acessibilidade
@@ -352,7 +352,7 @@ Conteúdos abordados:
 - Avaliação de Usabilidade e Acessibilidade;
 - Usabilidade e Ergonomia Cognitiva.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## UX Digital: Experiência do Usuário em Plataformas Digitais;
@@ -364,7 +364,7 @@ Conteúdos abordados:
 - Design de interação;
 - Validação de ideias;
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ## Web Design Avançado
@@ -374,5 +374,5 @@ Conteúdos abordados:
 - Recursos Avançados de CSS;
 - Bibliotecas JavaScript.
 
-Ministrada por: <b>A contratar.</b>
+Ministrada por: <b>A definir.</b>
 <br>

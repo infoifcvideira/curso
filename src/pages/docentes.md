@@ -1,4 +1,4 @@
-# Quadro Docente
+# Quadro Docente Técnico
 
 <a href="../../README.md"><img src="https://img.shields.io/badge/-Voltar%20ao%20in%C3%ADcio-green?style=for-the-badge&color=fc6f03"/></a>
 
@@ -18,7 +18,7 @@
 
 ## Fabiana Mara Rubini
 
-<img src="../img/fabiana-mara-rubini.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/fabiana-mara-rubini.jpg" alt="Foto do docente" align=left width=128/>
 
 **:mortar_board: Graduação**: Sistemas de Informação <br>
 **:closed_book: Última Formação**: Especialização em Desenvolvimento Web <br>
@@ -104,8 +104,8 @@
 
 <img src="../img/unknown.jpg" alt="Foto do docente" align=right width=128/>
 
-**:mortar_board: Graduação**: -- <br>
-**:closed_book: Última Formação**: -- <br>
+**:mortar_board: Graduação**: Ciência da Computação <br>
+**:closed_book: Última Formação**: Mestrado em Informática <br>
 **:e-mail: E-mail**: wagner.mariani@ifc.edu.br <br>
 **:books: Áreas de pesquisa**: Automação Industrial, Computação Gráfica, Redes e Arquitetura de Computadores <br>
 **:pushpin: Disciplinas que ministra**: <a href="disciplinas.md/#hardware-e-sistemas-operacionais">Sistemas Operacionais</a> <br>

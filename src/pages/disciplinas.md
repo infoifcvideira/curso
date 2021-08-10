@@ -167,8 +167,7 @@ Conteúdos abordados:
 - Configuração de redes locais física e lógica;
 - Aspectos de segurança em redes.
 
-Ministrada por: <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a>
-<br>
+Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
 
 # 3° ano
 
@@ -236,6 +235,37 @@ implementação de software;
 modelos de processos (Processo Unificado, Scrum, XP) e as ferramentas aprendidas.
 
 Ministrada por: <a href="docentes.md/#kennedy-ferreira-araújo"><b>Kennedy Ferreira Araújo</b></a>
+
+## Metodologia Científica
+
+Conteúdos abordados:
+
+- Diferentes tipos de conhecimento;
+- Surgimento e constituição da ciência contemporânea;
+- Diferentes Métodos e Técnicas de Pesquisa;
+- Introdução à metodologia científica;
+- Partes que compõem um trabalho;
+- Apresentação dos trabalhos;
+- Normas da ABNT.
+
+Ministrada por: <a href="docentes.md/#mariah-----"><b>Mariah --------</b></a>
+
+## Redes de Computadores
+
+Conteúdos abordados:
+
+- Introdução a Redes de Computadores;
+- Topologias de Redes;
+- Classificação de Redes;
+- Meios de Transmissão;
+- Dispositivos de Rede;
+- Modelo de Referência OSI;
+- Camadas do Modelo OSI;
+- Redes Sem Fio;
+- Protocolos de Redes;
+- Criação e projeto de Redes.
+
+Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
 
 ## Tópicos Especiais Integrados
 

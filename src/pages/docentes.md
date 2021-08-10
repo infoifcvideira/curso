@@ -56,7 +56,7 @@
 
 <img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=left width=128/>
 
-<div style="width=128">
+<div style="width=128px;">
 
 **:mortar_board: Graduação**: Bacharelado em Sistemas de Informação <br>
 **:closed_book: Última Formação**: Especialização em Desenvolvimento Web <br>

@@ -42,7 +42,7 @@
 
 ## Leila Lisiane Rossi
 
-<img src="../img/leila-lisiane-rossi.png" alt="Foto do docente" align=right width=128/>
+<img src="../img/leila-lisiane-rossi.png" alt="Foto do docente" align=left width=128/>
 
 **:mortar_board: Graduação**: Bacharelado em Ciências da Computação <br>
 **:closed_book: Última Formação**: Mestrado em Ciências da Computação <br>
@@ -54,7 +54,7 @@
 
 ## Maurício Natanael Ferreira
 
-<img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=right width=128/>
+<img src="../img/mauricio-natanael-ferreira.jpg" alt="Foto do docente" align=left width=128/>
 
 **:mortar_board: Graduação**: Bacharelado em Sistemas de Informação <br>
 **:closed_book: Última Formação**: Especialização em Desenvolvimento Web <br>

@@ -237,6 +237,18 @@ modelos de processos (Processo Unificado, Scrum, XP) e as ferramentas aprendidas
 
 Ministrada por: <a href="docentes.md/#kennedy-ferreira-araújo"><b>Kennedy Ferreira Araújo</b></a>
 
+## Tópicos Especiais Integrados
+
+Conteúdo abordado:
+
+- Definir em conjunto com os professores participantes a cada oferta;
+- Primar pela integração, discussão, troca de conhecimentos e colaboração entre as áreas 
+participantes;
+- Dar ênfase para que os alunos possam perceber de que forma os conteúdos se integram e assim podem produzir resultados mais interessantes;
+- Gerar resultados que reflitam a soma das partes integradas.
+
+Ministrada por: <a href="docentes.md/#manassés-ribeiro"><b>Manassés Ribeiro</b></a>
+
 # Disciplinas optativas
 
 As disciplinas optativas são aquelas que o aluno **não** tem a obrigação de fazer, mas caso queira, tem a liberdade de se inscrever e participar das aulas.

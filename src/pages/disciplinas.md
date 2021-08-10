@@ -211,6 +211,32 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio José Rodrigues Pinheiro</b></a>
 <br>
 
+# Disciplinas do PPC antigo
+
+A seguir estão as disciplinas que ainda são ministradas, mas que não estarão em vigor aos alunos novos, são aplicadas aos discentes veteranos.
+
+## Engenharia de Software II
+
+Conteúdos abordados: 
+
+- Projeto da Camada de Domínio;
+- Geração de Código e Testes;
+- Padrões de Projeto GRASP;
+- Gerenciamento de Configuração:
+    - Mudanças;
+    - Versões;
+    - Releases.
+- Integração das etapas aprendidas ao processo de levantamento, análise, projeto e 
+implementação de software;
+- Processo Unificado e suas fases;
+- Modelos Ágeis:
+    - Scrum; 
+    - XP. 
+- Atividades Práticas: projetar e implementar pequenos softwares utilizando os 
+modelos de processos (Processo Unificado, Scrum, XP) e as ferramentas aprendidas.
+
+Ministrada por: <a href="docentes.md/#kennedy-ferreira-araújo"><b>Kennedy Ferreira Araújo</b></a>
+
 # Disciplinas optativas
 
 As disciplinas optativas são aquelas que o aluno **não** tem a obrigação de fazer, mas caso queira, tem a liberdade de se inscrever e participar das aulas.

@@ -28,9 +28,11 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 
 Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso técnico, assim como seus respectivos docentes.
 
-# 1° ano
+# Disciplinas do PPC atual
 
-## Fundamentos de Informática
+## 1° ano
+
+### Fundamentos de Informática
 
 Conteúdos abordados:
 
@@ -49,7 +51,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#rosangela-aguiar-adam"><b>Rosangela Aguiar Adam</b></a>
 <br>
 
-## Hardware e Sistemas Operacionais
+### Hardware e Sistemas Operacionais
 
 Conteúdos abordados:
 
@@ -74,7 +76,7 @@ Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubin
 Ministrada por: <a href="docentes.md/#wagner-carlos-mariani"><b>Wagner Carlos Mariani</b></a>
 <br>
 
-## Lógica de Programação
+### Lógica de Programação
 
 Conteúdos abordados:
 
@@ -92,7 +94,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#wanderson-rigo"><b>Wanderson Rigo</b></a>
 <br>
 
-## Multimídia
+### Multimídia
 
 Conteúdos abordados:
 
@@ -105,7 +107,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício Natanael Ferreira</b></a>
 <br>
 
-## Web Design
+### Web Design
 
 Conteúdos abordados:
 
@@ -118,9 +120,9 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício Natanael Ferreira</b></a>
 <br>
 
-# 2° ano
+## 2° ano
 
-## Banco de Dados
+### Banco de Dados
 
 Conteúdos abordados:
 
@@ -131,7 +133,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
 <br>
 
-## Engenharia de Software
+### Engenharia de Software
 
 Conteúdos abordados:
 
@@ -144,7 +146,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a>
 <br>
 
-## Programação I
+### Programação I
 
 Conteúdos abordados:
 
@@ -156,7 +158,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Krohl</b></a>
 <br>
 
-## Redes
+### Redes
 
 Conteúdos abordados:
 
@@ -169,9 +171,9 @@ Conteúdos abordados:
 
 Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
 
-# 3° ano
+## 3° ano
 
-## Administração e Empreendedorismo
+### Administração e Empreendedorismo
 
 Conteúdos abordados:
 
@@ -186,7 +188,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Rosa</b></a>
 <br>
 
-## Desenvolvimento de Projetos
+### Desenvolvimento de Projetos
 
 Conteúdos abordados:
 
@@ -197,7 +199,7 @@ Conteúdos abordados:
 Ministrada por: <b>A definir.</b> 
 <br>
 
-## Programação II
+### Programação II
 
 Conteúdos abordados:
 
@@ -214,7 +216,9 @@ Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio
 
 A seguir estão as disciplinas que ainda são ministradas, mas que não estarão em vigor aos alunos novos, são aplicadas aos discentes veteranos.
 
-## Engenharia de Software II
+## 1° ano
+
+### Engenharia de Software II
 
 Conteúdos abordados: 
 

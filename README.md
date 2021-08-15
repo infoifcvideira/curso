@@ -78,17 +78,19 @@ O atual quadro docente de informática é composto por 13 professores. Acompanhe
 
 Docente | Disciplinas Ministradas 
 :------:  | :-------:
-Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
-Diego Ricardo Krohl | Programação I 
-Fabiana Mara Rubini | Engenharia de Software I, Hardware
-Fábio José Rodrigues Pinheiro | Programação II 
-Leila Lisiane Rossi | Banco de Dados  
-Maurício Natanael Ferreira | Multimídia, Web Design
-Nadir Paula da Rosa | Administração e Empreendedorismo
-Rosa Maria Pascoali | Redes
-Rosangela Aguiar Adam | Fundamentos da Informática
-Wagner Carlos Mariani | Sistemas Operacionais
-Wanderson Rigo | Lógica de Programação
+Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
+Diego Ricardo Krohl | <a href="src/pages/disciplinas.md/#ledger-redes">Programação I (PPC antigo)</a>
+Fabiana Mara Rubini | <a href="src/pages/disciplinas.md/#hardware">Hardware</a>, <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-i">Engenharia de Software I (PPC antigo)</a> e <a href="src/pages/disciplinas.md/#ledger-hardware">Hardware (PPC antigo)</a>
+Fábio José Rodrigues Pinheiro | <a href="src/pages/disciplinas.md/#ledger-programação-ii">Programação II (PPC antigo)</a> <br>
+Kennedy Ferreira Araújo | <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-ii">Engenharia de Software II (PPC antigo)</a>
+Leila Lisiane Rossi | <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-i">Banco de Dados I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-ii">Banco de Dados II (PPC antigo)</a> <br>  
+Manassés Ribeiro | <a href="src/pages/disciplinas.md/#ledger-tópicos-especiais-integrados">Tópicos Especiais Integrados (PPC antigo)</a><br>
+Maurício Natanael Ferreira | <a href="src/pages/disciplinas.md/#multimídia">Multimídia</a>, <a href="src/pages/disciplinas.md/#web-design">Web Design</a> <br>
+Nadir Paula da Rosa | <a href="src/pages/disciplinas.md/#ledger-administração-e-empreendedorismo">Administração e Empreendedorismo (PPC antigo)</a> <br>
+Rosa Maria Pascoali | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
+Rosangela Aguiar Adam | <a href="src/pages/disciplinas.md/#fundamentos-de-informática">Fundamentos de Informática</a> <br>
+Wagner Carlos Mariani | <a href="src/pages/disciplinas.md/#hardware-e-sistemas-operacionais">Sistemas Operacionais</a>, <a href="src/pages/disciplinas.md/#ledger-hardware-e-sistemas-operacionais">Sistemas Operacionais (PPC antigo)</a><br>
+Wanderson Rigo | <a href="src/pages/disciplinas.md/#lógica-de-programação">Lógica de Programação</a> <br>
 
 <a href="src/pages/docentes.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20cada%20docente-green?style=for-the-badge&color=037623"/></a>
 ## Eventos

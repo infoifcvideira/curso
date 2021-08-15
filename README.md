@@ -42,40 +42,43 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 
 ## Disciplinas
 
-O **Curso Técnico em Informática** oferece 12 disciplinas totais, considerando os três anos de vigência do discente, a carga horária de cada disciplina foi planejada a fim de obter o melhor aproveitamento dos conteúdos apresentados.
+O **PPC atual** oferece 12 disciplinas técnicas totais, considerando os três anos de vigência do discente, a carga horária de cada disciplina foi planejada a fim de obter o melhor aproveitamento dos conteúdos apresentados.
 
-Segue abaixo a *Matriz Curricular* do curso técnico, contendo os componentes curriculares (disciplinas) juntamente com sua respectiva carga horária em cada ano:
+Segue abaixo a *Matriz Curricular* do PPC atual, contendo os componentes curriculares (disciplinas) juntamente com sua respectiva carga horária em cada ano:
 
 ### Matriz Curricular
 
 Componente Curricular | 1° ano | 2° ano | 3° ano |
 :------:  | :-------:  |  :-------: | :--------: |
-Fundamentos da Informática | 60h 
-Hardware e Sistemas Operacionais | 120h
-Lógica de Programação | 120h 
-Multimídia | 90h  
-Web Design | 60h
+<a href="src/pages/disciplinas.md#fundamentos-de-informática">Fundamentos de Informática</a> | 60h 
+<a href="src/pages/disciplinas.md#hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h
+<a href="src/pages/disciplinas.md#lógica-de-programação">Lógica de Programação</a> | 120h 
+<a href="src/pages/disciplinas.md#multimídia">Multimídia</a> | 90h  
+<a href="src/pages/disciplinas.md#web-design">Web Design</a> | 60h
 ‎| ‎ | ‎ | ‎ |
-Banco de Dados | | 90h 
-Engenharia de Software | | 60h 
-Programação I | | 120h
-Redes | | 60h
-Optativa I | | 60h
+<a href="src/pages/disciplinas.md#banco-de-dados">Banco de Dados</a> | | 90h 
+<a href="src/pages/disciplinas.md#engenharia de Software">Engenharia de Software</a> | | 60h 
+<a href="src/pages/disciplinas.md#programação-i">Programação I</a> | | 120h
+<a href="src/pages/disciplinas.md#redes">Redes</a> | | 60h
+<a href="src/pages/disciplinas.md#disciplinas-optativas">Optativa I</a> | | 60h
 | ‎ | ‎ | ‎ |
-Desenvolvimento de Projetos | | | 120h
-Empreendedorismo | | | 60h
-Programação II | | | 120h
-Optativa II | | | 60h
-Optativa III | | | 60h
+<a href="src/pages/disciplinas.md#desenvolvimento-de-projetos">Desenvolvimento de Projetos</a> | | | 120h
+<a href="src/pages/disciplinas.md#administração-e-empreendedorismo">Administração e Empreendedorismo</a> | | | 60h
+<a href="src/pages/disciplinas.md#programação-ii">Programação II</a> | | | 120h
+<a href="src/pages/disciplinas.md#disciplinas-optativas">Optativa II</a> | | | 60h
+<a href="src/pages/disciplinas.md#disciplinas-optativas">Optativa III</a> | | | 60h
+
+Para se informar melhor sobre a ementa de cada disciplina, e ver as outras disciplinas ainda em vigência, clique no botão abaixo.
 
 <a href="src/pages/disciplinas.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20as%20disciplinas-green?style=for-the-badge&color=037623"/></a>
 
 ## Quadro Docente
 
-O atual quadro docente de informática é composto por 10 professores. Acompanhe a tabela a seguir para visualizar as disciplinas ministradas por cada docente:
+O atual quadro docente de informática é composto por 13 professores. Acompanhe a tabela a seguir para visualizar as disciplinas ministradas por cada docente:
 
 Docente | Disciplinas Ministradas 
 :------:  | :-------:
+Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#:ledger:-redes-locais">Redes Locais (PPC antigo)</a>, <a href="disciplinas.md/#:ledger:-redes">Redes (PPC antigo)</a>
 Diego Ricardo Krohl | Programação I 
 Fabiana Mara Rubini | Engenharia de Software I, Hardware
 Fábio José Rodrigues Pinheiro | Programação II 

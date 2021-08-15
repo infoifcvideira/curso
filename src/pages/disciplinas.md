@@ -222,7 +222,7 @@ Componente Curricular | 2° ano | 3° ano |
 <a href="#:ledger:-engenharia-de-software-i">Engenharia de Software I</a> | 60h 
 <a href="#:ledger:-hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h
 <a href="#:ledger:-programação-i">Programação I</a> | 120h
-<a href="#:ledger:-redes-locais">Redes Locais</a> | 60h
+<a href="#📒-redes-locais">Redes Locais</a> | 60h
 ‎| ‎ | ‎ | ‎ |
 <a href="#:ledger:-administração-e-empreendedorismo">Administração e Empreendedorismo</a> | | 120h
 <a href="#:ledger:-banco-de-dados-ii">Banco de Dados II</a> | | 60h

@@ -212,28 +212,28 @@ Conteúdos abordados:
 Ministrada por: <b>A definir.</b>
 <br>
 
-# :ledger: Disciplinas do PPC antigo
+# ledger Disciplinas do PPC antigo
 
 A seguir estão as disciplinas que ainda são ministradas, mas que não estarão em vigor aos alunos novos, são aplicadas aos discentes veteranos.
 
 Componente Curricular | 2° ano | 3° ano |
 :------:  | :-------:  |  :-------: |
-<a href="#:ledger:-banco-de-dados-i">Banco de Dados I</a> | 60h 
-<a href="#:ledger:-engenharia-de-software-i">Engenharia de Software I</a> | 60h 
-<a href="#:ledger:-hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h
-<a href="#\:ledger\:-programação-i">Programação I</a> | 120h
-<a href="#📒-redes-locais">Redes Locais</a> | 60h
+<a href="#ledger-banco-de-dados-i">Banco de Dados I</a> | 60h 
+<a href="#ledger-engenharia-de-software-i">Engenharia de Software I</a> | 60h 
+<a href="#ledger-hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h
+<a href="#ledger-programação-i">Programação I</a> | 120h
+<a href="#ledger-redes-locais">Redes Locais</a> | 60h
 ‎| ‎ | ‎ | ‎ |
-<a href="#:ledger:-administração-e-empreendedorismo">Administração e Empreendedorismo</a> | | 120h
-<a href="#:ledger:-banco-de-dados-ii">Banco de Dados II</a> | | 60h
-<a href="#:ledger:-engenharia-de-software-ii">Engenharia de Software II</a> | | 60h
-<a href="#:ledger:-programação-ii">Programação II</a> | | 120h
-<a href="#:ledger:-redes">Redes</a> | | 60h
-<a href="#:ledger:-tópicos-especiais-integrados">Tópicos Especiais Integrados</a> | | 30h
+<a href="#ledger-administração-e-empreendedorismo">Administração e Empreendedorismo</a> | | 120h
+<a href="#ledger-banco-de-dados-ii">Banco de Dados II</a> | | 60h
+<a href="#ledger-engenharia-de-software-ii">Engenharia de Software II</a> | | 60h
+<a href="#ledger-programação-ii">Programação II</a> | | 120h
+<a href="#ledger-redes">Redes</a> | | 60h
+<a href="#ledger-tópicos-especiais-integrados">Tópicos Especiais Integrados</a> | | 30h
 
 ## 2° ano
 
-### :ledger: Banco de Dados I
+### ledger Banco de Dados I
 
 Conteúdos abordados: 
 
@@ -268,7 +268,7 @@ Conteúdos abordados:
 
 Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a>
 
-### :ledger: Hardware e Sistemas Operacionais
+### ledger Hardware e Sistemas Operacionais
 
 Conteúdos abordados:
 
@@ -289,7 +289,7 @@ Conteúdos abordados:
 Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a> e
 <a href="docentes.md/#wagner-carlos-mariani"><b>Wagner Carlos Mariani</b></a> 
 
-### :ledger: Programação I
+### ledger Programação I
 
 Conteúdos abordados: 
 
@@ -300,7 +300,7 @@ Conteúdos abordados:
 
 Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Krohl</b></a>
 
-### :ledger: Redes Locais
+### ledger Redes Locais
 
 Conteúdos abordados:
 
@@ -314,7 +314,7 @@ Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Ang
 
 ## 3° ano
 
-### :ledger: Administração e Empreendedorismo
+### ledger Administração e Empreendedorismo
 
 Conteúdos abordados:
 
@@ -333,7 +333,7 @@ Conteúdos abordados:
 
 Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Rosa</b></a>
 
-### :ledger: Banco de Dados II
+### ledger Banco de Dados II
 
 Conteúdos abordados:
 
@@ -348,7 +348,7 @@ Conteúdos abordados:
 
 Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
 
-### :ledger: Engenharia de Software II
+### ledger Engenharia de Software II
 
 Conteúdos abordados:
 
@@ -365,7 +365,7 @@ modelos de processos (Processo Unificado, Scrum, XP) e as ferramentas aprendidas
 
 Ministrada por: <a href="docentes.md/#kennedy-ferreira-araújo"><b>Kennedy Ferreira Araújo</b></a>
 
-### :ledger: Programação II
+### ledger Programação II
 
 - Recursos avançados de uma linguagem de programação;
 - Implementação de software com uma linguagem de programação;
@@ -373,7 +373,7 @@ Ministrada por: <a href="docentes.md/#kennedy-ferreira-araújo"><b>Kennedy Ferre
 
 Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio José Rodrigues Pinheiro</b></a>
 
-### :ledger: Redes
+### ledger Redes
 
 - Introdução a Redes de Computadores;
 - Topologias de Redes;

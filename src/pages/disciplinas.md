@@ -388,7 +388,7 @@ Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio
 
 Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
 
-### Tópicos Especiais Integrados
+### :ledger: Tópicos Especiais Integrados
 
 Conteúdos abordados:
 

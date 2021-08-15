@@ -78,7 +78,7 @@ O atual quadro docente de informática é composto por 13 professores. Acompanhe
 
 Docente | Disciplinas Ministradas 
 :------:  | :-------:
-Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#:ledger:-redes-locais">Redes Locais (PPC antigo)</a>, <a href="disciplinas.md/#:ledger:-redes">Redes (PPC antigo)</a>
+Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
 Diego Ricardo Krohl | Programação I 
 Fabiana Mara Rubini | Engenharia de Software I, Hardware
 Fábio José Rodrigues Pinheiro | Programação II 

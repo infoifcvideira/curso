@@ -80,7 +80,7 @@ Docente | Disciplinas Ministradas
 :------:  | :-------:
 Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
 Diego Ricardo Krohl | <a href="src/pages/disciplinas.md/#ledger-redes">Programação I (PPC antigo)</a>
-Fabiana Mara Rubini | <a href="src/pages/disciplinas.md/#hardware">Hardware</a>, <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-i">Engenharia de Software I (PPC antigo)</a> e <a href="src/pages/disciplinas.md/#ledger-hardware">Hardware (PPC antigo)</a>
+Fabiana Mara Rubini | <a href="src/pages/disciplinas.md/#hardware">Hardware</a>, <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-i">Engenharia de Software I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-hardware">Hardware (PPC antigo)</a>
 Fábio José Rodrigues Pinheiro | <a href="src/pages/disciplinas.md/#ledger-programação-ii">Programação II (PPC antigo)</a> <br>
 Kennedy Ferreira Araújo | <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-ii">Engenharia de Software II (PPC antigo)</a>
 Leila Lisiane Rossi | <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-i">Banco de Dados I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-ii">Banco de Dados II (PPC antigo)</a> <br>  

@@ -217,7 +217,7 @@ Ministrada por: <b>A definir.</b>
 A seguir estão as disciplinas que ainda são ministradas, mas que não estarão em vigor aos alunos novos, são aplicadas aos discentes veteranos.
 
 Componente Curricular | 2° ano | 3° ano |
-:------:  | :-------:  |  :-------: | :--------: |
+:------:  | :-------:  |  :-------: |
 <a href="#:ledger:-banco-de-dados-i">Banco de Dados I</a> | 60h 
 <a href="#:ledger:-engenharia-de-software-i">Engenharia de Software I</a> | 60h 
 <a href="#:ledger:-hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h

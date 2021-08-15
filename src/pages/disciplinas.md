@@ -4,6 +4,8 @@
 
 Clique em um componente curricular para vê-lo detalhadamente, ou continue rolando para baixo até os *detalhes das disciplinas*.
 
+# Disciplinas do PPC atual
+
 Componente Curricular | 1° ano | 2° ano | 3° ano |
 :------:  | :-------:  |  :-------: | :--------: |
 <a href="#fundamentos-de-informática">Fundamentos de Informática</a> | 60h 
@@ -27,8 +29,6 @@ Componente Curricular | 1° ano | 2° ano | 3° ano |
 -----
 
 Nessa seção, você encontrará os conteúdos abordados em cada disciplina do curso técnico, assim como seus respectivos docentes.
-
-# Disciplinas do PPC atual
 
 ## 1° ano
 
@@ -130,7 +130,7 @@ Conteúdos abordados:
 - Linguagem de manipulação de dados (DML);
 - Fundamentos sobre: Permissões de acesso, segurança e transações.
 
-Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ### Engenharia de Software
@@ -143,7 +143,7 @@ Conteúdos abordados:
 - Testes;
 - Controle de versão.
 
-Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ### Programação I
@@ -155,7 +155,7 @@ Conteúdos abordados:
 - Tratamento de Exceções;
 - Implementação de software com uma linguagem de programação integrada com banco de dados.
 
-Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Krohl</b></a>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ### Redes
@@ -169,7 +169,7 @@ Conteúdos abordados:
 - Configuração de redes locais física e lógica;
 - Aspectos de segurança em redes.
 
-Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
+Ministrada por: <b>A definir.</b>
 
 ## 3° ano
 
@@ -185,7 +185,7 @@ Conteúdos abordados:
 - Funções Administrativas;
 - Plano de Negócio.
 
-Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Rosa</b></a>
+Ministrada por: <b>A definir.</b>
 <br>
 
 ### Desenvolvimento de Projetos
@@ -209,58 +209,175 @@ Conteúdos abordados:
 - Frameworks;
 - Tecnologias atuais.
 
-Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio José Rodrigues Pinheiro</b></a>
+Ministrada por: <b>A definir.</b>
 <br>
 
-# Disciplinas do PPC antigo
+# :ledger: Disciplinas do PPC antigo
 
 A seguir estão as disciplinas que ainda são ministradas, mas que não estarão em vigor aos alunos novos, são aplicadas aos discentes veteranos.
 
-## 1° ano
+Componente Curricular | 2° ano | 3° ano |
+:------:  | :-------:  |  :-------: | :--------: |
+<a href="#:ledger:-banco-de-dados-i">Banco de Dados I</a> | 60h 
+<a href="#:ledger:-engenharia-de-software-i">Engenharia de Software I</a> | 60h 
+<a href="#:ledger:-hardware-e-sistemas-operacionais">Hardware e Sistemas Operacionais</a> | 120h
+<a href="#:ledger:-programação-i">Programação I</a> | 120h
+<a href="#:ledger:-redes-locais">Redes Locais</a> | 60h
+‎| ‎ | ‎ | ‎ |
+<a href="#:ledger:-administração-e-empreendedorismo">Administração e Empreendedorismo</a> | | 120h
+<a href="#:ledger:-banco-de-dados-ii">Banco de Dados II</a> | | 60h
+<a href="#:ledger:-engenharia-de-software-ii">Engenharia de Software II</a> | | 60h
+<a href="#:ledger:-programação-ii">Programação II</a> | | 120h
+<a href="#:ledger:-redes">Redes</a> | | 60h
+<a href="#:ledger:-tópicos-especiais-integrados">Tópicos Especiais Integrados</a> | | 30h
 
-### Engenharia de Software II
+## 2° ano
+
+### :ledger: Banco de Dados I
 
 Conteúdos abordados: 
+
+- Conceitos básicos de banco de dados;
+- Modelo Entidade-relacionamento;
+- Introdução a linguagem de consulta estruturada (SQL);
+- Comandos para criação e manipulação de tabelas, inserção e exclusão de dados, consultas a bases de dados.
+
+Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
+<br>
+
+### :legder: Engenharia de Software I
+
+Conteúdos abordados: 
+
+- Introdução à Engenharia de Software: 
+    - Conceitos básicos;
+    - Crise de desenvolvimento; 
+    - Mitos;
+    - Processo de desenvolvimento de software;
+    - Modelos de processos prescritivos (modelos de ciclo de vida).
+- UML;
+- Levantamento da Visão Geral do Sistema;
+- Levantamento e Análise de Requisitos;
+- Casos de Uso de Alto Nível;
+- Casos de Uso Expandidos;
+- Modelagem Conceitual;
+- Projeto de Camada de Interface;
+- Persistência (transformação de modelo conceitual para modelo relacional de banco de dados); 
+- Testes;
+- Atividade prática: Projeto de software utilizando o Modelo (de Processo Prescritivo) Cascata e as ferramentas de levantamento, análise e modelagem aprendidas.
+
+Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a>
+
+### :ledger: Hardware e Sistemas Operacionais
+
+Conteúdos abordados:
+
+- Organização de Computadores;
+- Sistemas de Memória;
+- Processadores;
+- Sistemas de entrada e saída;
+- Montagem e manutenção de computadores;
+- Histórico de Sistemas Operacionais;
+- Gerência de Processos;
+- Escalonamento de Processadores;
+- Gerência de Memória;
+- Gerência de Entrada e Saída;
+- Sistema de Arquivos;
+- Instalação e configuração de sistemas operacionais atuais;
+- Sistemas Distribuídos.
+
+Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubini</b></a> e
+<a href="docentes.md/#wagner-carlos-mariani"><b>Wagner Carlos Mariani</b></a> 
+
+### :ledger: Programação I
+
+Conteúdos abordados: 
+
+- Introdução à uma linguagem de programação;
+- Fundamentos de uma linguagem de programação;
+- Implementação de software com uma linguagem de programação;
+- Integração com Banco de Dados.
+
+Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Krohl</b></a>
+
+### :ledger: Redes Locais
+
+Conteúdos abordados:
+
+- Arquitetura de redes locais;
+- Pilha de protocolos TCP/IP;
+- Tecnologias de redes locais;
+- Cabeamento Estruturado;
+- Normas relacionadas à instalação de redes locais.
+
+Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
+
+## 3° ano
+
+### :ledger: Administração e Empreendedorismo
+
+Conteúdos abordados:
+
+- Administração: definição e visão geral;
+- Funções do Processo Administrativo (planejamento, organização, direção e controle);
+- Funções da Administração em Informática;
+- Marketing em Informática;
+- Noções de Contabilidade;
+- A vantagem do uso da informática na Contabilidade e nos demais setores de gestão;
+- Significado de empreendedorismo;
+- Papel do empreendedor;
+- Liderança e Empreendedorismo;
+-Empreendedorismo em informática;
+- Legislação pertinente à área de informática;
+- Introdução a técnicas e ferramentas de Business Intelligence - BI.
+
+Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Rosa</b></a>
+
+### :ledger: Banco de Dados II
+
+Conteúdos abordados:
+
+- Estudo sobre manipulação dos dados;
+- Operadores;
+- Funções agregadas;
+- Estrutura das consultas;
+- Sub-consultas aninhadas;
+- Controle de usuários;
+- View;
+- Stored procedure.
+
+Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Rossi</b></a>
+
+### :ledger: Engenharia de Software II
+
+Conteúdos abordados:
 
 - Projeto da Camada de Domínio;
 - Geração de Código e Testes;
 - Padrões de Projeto GRASP;
-- Gerenciamento de Configuração:
-    - Mudanças;
-    - Versões;
-    - Releases.
+- Gerenciamento de Configuração: mudanças, versões, releases;
 - Integração das etapas aprendidas ao processo de levantamento, análise, projeto e 
 implementação de software;
 - Processo Unificado e suas fases;
-- Modelos Ágeis:
-    - Scrum; 
-    - XP. 
+- Modelos Ágeis: Scrum e XP;
 - Atividades Práticas: projetar e implementar pequenos softwares utilizando os 
 modelos de processos (Processo Unificado, Scrum, XP) e as ferramentas aprendidas.
 
 Ministrada por: <a href="docentes.md/#kennedy-ferreira-araújo"><b>Kennedy Ferreira Araújo</b></a>
 
-## Metodologia Científica
+### :ledger: Programação II
 
-Conteúdos abordados:
+- Recursos avançados de uma linguagem de programação;
+- Implementação de software com uma linguagem de programação;
+- Integração com Banco de Dados.
 
-- Diferentes tipos de conhecimento;
-- Surgimento e constituição da ciência contemporânea;
-- Diferentes Métodos e Técnicas de Pesquisa;
-- Introdução à metodologia científica;
-- Partes que compõem um trabalho;
-- Apresentação dos trabalhos;
-- Normas da ABNT.
+Ministrada por: <a href="docentes.md/#fábio-josé-rodrigues-pinheiro"><b>Fábio José Rodrigues Pinheiro</b></a>
 
-Ministrada por: <a href="docentes.md/#mariah-----"><b>Mariah --------</b></a>
-
-## Redes de Computadores
-
-Conteúdos abordados:
+### :ledger: Redes
 
 - Introdução a Redes de Computadores;
 - Topologias de Redes;
-- Classificação de Redes;
+- Classificação de Redes; 
 - Meios de Transmissão;
 - Dispositivos de Rede;
 - Modelo de Referência OSI;
@@ -271,15 +388,11 @@ Conteúdos abordados:
 
 Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Angelita Rettore de Araujo Zanella</b></a> (em afastamento) e <a href="docentes.md/#rosa-maria-pascoali"><b>Rosa Maria Pascoali</b></a> (substituta) <br>
 
-## Tópicos Especiais Integrados
+### Tópicos Especiais Integrados
 
-Conteúdo abordado:
+Conteúdos abordados:
 
-- Definir em conjunto com os professores participantes a cada oferta;
-- Primar pela integração, discussão, troca de conhecimentos e colaboração entre as áreas 
-participantes;
-- Dar ênfase para que os alunos possam perceber de que forma os conteúdos se integram e assim podem produzir resultados mais interessantes;
-- Gerar resultados que reflitam a soma das partes integradas.
+- A definir em conjunto com os professores participantes a cada oferta.
 
 Ministrada por: <a href="docentes.md/#manassés-ribeiro"><b>Manassés Ribeiro</b></a>
 

@@ -404,7 +404,7 @@ As disciplinas optativas são aquelas que o aluno **não** tem a obrigação de 
 
 Conteúdos abordados:
 
-- Coiceito de imagem;
+- Conceito de imagem;
 - Grid;
 - Tipos de Layout;
 - Fundamentos de arquitetura de informação;

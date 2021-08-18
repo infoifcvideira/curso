@@ -34,7 +34,7 @@ Nessa seção, você encontrará os conteúdos abordados em cada disciplina do c
 
 ### Fundamentos de Informática
 
-Conteúdos abordados:
+Ementa:
 
 - Histórico da informática;
 - Sistemas numéricos;
@@ -53,7 +53,7 @@ Ministrada por: <a href="docentes.md/#rosangela-aguiar-adam"><b>Rosangela Aguiar
 
 ### Hardware e Sistemas Operacionais
 
-Conteúdos abordados:
+Ementa:
 
 - Hardware:
     - Introdução aos componentes de hardware de um computador;
@@ -78,7 +78,7 @@ Ministrada por: <a href="docentes.md/#wagner-carlos-mariani"><b>Wagner Carlos Ma
 
 ### Lógica de Programação
 
-Conteúdos abordados:
+Ementa:
 
 - Introdução à lógica de programação;
 - Conceitos básicos sobre algoritmos; 
@@ -96,7 +96,7 @@ Ministrada por: <a href="docentes.md/#wanderson-rigo"><b>Wanderson Rigo</b></a>
 
 ### Multimídia
 
-Conteúdos abordados:
+Ementa:
 
 - Tecnologias e aplicações para multimídia;
 - Criação e Tratamento de Imagens; 
@@ -109,7 +109,7 @@ Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício 
 
 ### Web Design
 
-Conteúdos abordados:
+Ementa:
 
 - Introdução a Usabilidade e a Criação de Interfaces gráficas;
 - Estruturação de páginas Web com HTML;
@@ -124,7 +124,7 @@ Ministrada por: <a href="docentes.md/#maurício-natanael-ferreira"><b>Maurício 
 
 ### Banco de Dados
 
-Conteúdos abordados:
+Ementa:
 
 - SQL: Linguagem de definição de dados (DDL);
 - Linguagem de manipulação de dados (DML);
@@ -135,7 +135,7 @@ Ministrada por: <b>A definir.</b>
 
 ### Engenharia de Software
 
-Conteúdos abordados:
+Ementa:
 
 - Modelos de processos e metodologias ágeis;
 - Levantamento e Análise de Requisitos;
@@ -148,7 +148,7 @@ Ministrada por: <b>A definir.</b>
 
 ### Programação I
 
-Conteúdos abordados:
+Ementa:
 
 - Programação Orientada à Objetos;
 - Fundamentos de uma linguagem de programação orientada a objetos; 
@@ -160,7 +160,7 @@ Ministrada por: <b>A definir.</b>
 
 ### Redes
 
-Conteúdos abordados:
+Ementa:
 
 - Introdução a Redes de Computadores;
 - Arquitetura de redes;
@@ -175,7 +175,7 @@ Ministrada por: <b>A definir.</b>
 
 ### Administração e Empreendedorismo
 
-Conteúdos abordados:
+Ementa:
 
 - Empreendedorismo e Intraempreendedorismo:
     - Conceitos;
@@ -190,7 +190,7 @@ Ministrada por: <b>A definir.</b>
 
 ### Desenvolvimento de Projetos
 
-Conteúdos abordados:
+Ementa:
 
 - Métodos e técnicas de pesquisa;
 - Normas técnicas do trabalho científico - ABNT;
@@ -201,7 +201,7 @@ Ministrada por: <b>A definir.</b>
 
 ### Programação II
 
-Conteúdos abordados:
+Ementa:
 
 - Implementação de aplicação web;
 - Integração com Banco de Dados;
@@ -235,7 +235,7 @@ Componente Curricular | 2° ano | 3° ano |
 
 ### :ledger: Banco de Dados I
 
-Conteúdos abordados: 
+Ementa: 
 
 - Conceitos básicos de banco de dados;
 - Modelo Entidade-relacionamento;
@@ -247,7 +247,7 @@ Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Ross
 
 ### :ledger: Engenharia de Software I
 
-Conteúdos abordados: 
+Ementa: 
 
 - Introdução à Engenharia de Software: 
     - Conceitos básicos;
@@ -270,7 +270,7 @@ Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubin
 
 ### :ledger: Hardware e Sistemas Operacionais
 
-Conteúdos abordados:
+Ementa:
 
 - Organização de Computadores;
 - Sistemas de Memória;
@@ -291,7 +291,7 @@ Ministrada por: <a href="docentes.md/#fabiana-mara-rubini"><b>Fabiana Mara Rubin
 
 ### :ledger: Programação I
 
-Conteúdos abordados: 
+Ementa: 
 
 - Introdução à uma linguagem de programação;
 - Fundamentos de uma linguagem de programação;
@@ -302,7 +302,7 @@ Ministrada por: <a href="docentes.md/#diego-ricardo-krohl"><b>Diego Ricardo Kroh
 
 ### :ledger: Redes Locais
 
-Conteúdos abordados:
+Ementa:
 
 - Arquitetura de redes locais;
 - Pilha de protocolos TCP/IP;
@@ -316,7 +316,7 @@ Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Ang
 
 ### :ledger: Administração e Empreendedorismo
 
-Conteúdos abordados:
+Ementa:
 
 - Administração: definição e visão geral;
 - Funções do Processo Administrativo (planejamento, organização, direção e controle);
@@ -335,7 +335,7 @@ Ministrada por: <a href="docentes.md/#nadir-paula-da-rosa"><b>Nadir Paula da Ros
 
 ### :ledger: Banco de Dados II
 
-Conteúdos abordados:
+Ementa:
 
 - Estudo sobre manipulação dos dados;
 - Operadores;
@@ -350,7 +350,7 @@ Ministrada por: <a href="docentes.md/#leila-lisiane-rossi"><b>Leila Lisiane Ross
 
 ### :ledger: Engenharia de Software II
 
-Conteúdos abordados:
+Ementa:
 
 - Projeto da Camada de Domínio;
 - Geração de Código e Testes;
@@ -390,7 +390,7 @@ Ministrada por: <a href="docentes.md/#angelita-rettore-de-araujo-zanella"><b>Ang
 
 ### :ledger: Tópicos Especiais Integrados
 
-Conteúdos abordados:
+Ementa:
 
 - A definir em conjunto com os professores participantes a cada oferta.
 
@@ -402,7 +402,7 @@ As disciplinas optativas são aquelas que o aluno **não** tem a obrigação de 
 
 ## Criação de Interfaces Digitais
 
-Conteúdos abordados:
+Ementa:
 
 - Conceito de imagem;
 - Grid;
@@ -416,7 +416,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Desenvolvimento de aplicações multi-plataformas
 
-Conteúdos abordados:
+Ementa:
 
 - Montagem do ambiente para desenvolvimento de aplicativos;
 - Acesso a recursos do dispositivo.
@@ -426,7 +426,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Edição de Áudio e Vídeo
 
-Conteúdos abordados:
+Ementa:
 
 - Fundamentos de Som;
 - Técnicas de edição de som;
@@ -438,7 +438,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Framework para programação web
 
-Conteúdos abordados:
+Ementa:
 
 - Configuração do ambiente para programação web;
 - Utilização de framework em linguagem web.
@@ -448,7 +448,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Introdução à Robótica
 
-Conteúdos abordados:
+Ementa:
 
 - Fundamentos de Robótica;
 - Motores;
@@ -460,7 +460,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Legislação Aplicada à Informática
 
-Conteúdos abordados:
+Ementa:
 
 - Hierarquia das Leis;
 - Divisão Geral do Direito;
@@ -473,7 +473,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Modelagem 3D
 
-Conteúdos abordados:
+Ementa:
 
 - Introdução à Modelagem 3D;
 - Preparação do ambiente para modelagem;
@@ -484,7 +484,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Programação Front-End
 
-Conteúdos abordados:
+Ementa:
 
 - Recursos avançados de folhas de estilo;
 - Recursos de linguagem de programação front-end.
@@ -494,7 +494,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Programação Mobile
 
-Conteúdos abordados:
+Ementa:
 
 - Montagem do ambiente de desenvolvimento;
 - Arquitetura da aplicação para dispositivos móveis;
@@ -505,7 +505,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Redes II
 
-Conteúdos abordados:
+Ementa:
 
 - Protocolo IP: 
     - Estrutura;
@@ -519,7 +519,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Redes III
 
-Conteúdos abordados:
+Ementa:
 
 - Meios de transmissão;
 - Normas e padrões em cabeamento estruturado;
@@ -531,7 +531,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Usabilidade e Acessibilidade
 
-Conteúdos abordados:
+Ementa:
 
 - Web Acessível;
 - Avaliação de Usabilidade e Acessibilidade;
@@ -542,7 +542,7 @@ Ministrada por: <b>A definir.</b>
 
 ## UX Digital: Experiência do Usuário em Plataformas Digitais;
 
-Conteúdos abordados:
+Ementa:
 
 - Conceitos básicos de UX;
 - Concepção do projeto;
@@ -554,7 +554,7 @@ Ministrada por: <b>A definir.</b>
 
 ## Web Design Avançado
 
-Conteúdos abordados:
+Ementa:
 
 - Recursos Avançados de CSS;
 - Bibliotecas JavaScript.

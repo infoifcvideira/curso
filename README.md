@@ -78,21 +78,22 @@ O atual quadro docente de informática é composto por 13 professores. Acompanhe
 
 Docente | Disciplinas Ministradas 
 :------:  | :-------:
-Angelita Rettore de Araujo Zanella | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
-Diego Ricardo Krohl | <a href="src/pages/disciplinas.md/#ledger-redes">Programação I (PPC antigo)</a>
-Fabiana Mara Rubini | <a href="src/pages/disciplinas.md/#hardware">Hardware</a>, <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-i">Engenharia de Software I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-hardware">Hardware (PPC antigo)</a>
-Fábio José Rodrigues Pinheiro | <a href="src/pages/disciplinas.md/#ledger-programação-ii">Programação II (PPC antigo)</a> <br>
-Kennedy Ferreira Araújo | <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-ii">Engenharia de Software II (PPC antigo)</a>
-Leila Lisiane Rossi | <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-i">Banco de Dados I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-ii">Banco de Dados II (PPC antigo)</a> <br>  
-Manassés Ribeiro | <a href="src/pages/disciplinas.md/#ledger-tópicos-especiais-integrados">Tópicos Especiais Integrados (PPC antigo)</a><br>
-Maurício Natanael Ferreira | <a href="src/pages/disciplinas.md/#multimídia">Multimídia</a>, <a href="src/pages/disciplinas.md/#web-design">Web Design</a> <br>
-Nadir Paula da Rosa | <a href="src/pages/disciplinas.md/#ledger-administração-e-empreendedorismo">Administração e Empreendedorismo (PPC antigo)</a> <br>
-Rosa Maria Pascoali | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
-Rosangela Aguiar Adam | <a href="src/pages/disciplinas.md/#fundamentos-de-informática">Fundamentos de Informática</a> <br>
-Wagner Carlos Mariani | <a href="src/pages/disciplinas.md/#hardware-e-sistemas-operacionais">Sistemas Operacionais</a>, <a href="src/pages/disciplinas.md/#ledger-hardware-e-sistemas-operacionais">Sistemas Operacionais (PPC antigo)</a><br>
-Wanderson Rigo | <a href="src/pages/disciplinas.md/#lógica-de-programação">Lógica de Programação</a> <br>
+<a href="src/pages/docentes.md/#angelita-rettore-de-araujo-zanella">Angelita Rettore de Araujo Zanella</a> | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
+<a href="src/pages/docentes.md/#diego-ricardo-krohl">Diego Ricardo Krohl</a> | <a href="src/pages/disciplinas.md/#ledger-redes">Programação I (PPC antigo)</a>
+<a href="src/pages/docentes.md/#fabiana-mara-rubini">Fabiana Mara Rubini</a> | <a href="src/pages/disciplinas.md/#hardware">Hardware</a>, <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-i">Engenharia de Software I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-hardware">Hardware (PPC antigo)</a>
+<a href="src/pages/docentes.md/#fábio-josé-rodrigues-pinheiro">Fábio José Rodrigues Pinheiro</a> | <a href="src/pages/disciplinas.md/#ledger-programação-ii">Programação II (PPC antigo)</a> <br>
+<a href="src/pages/docentes.md/#kennedy-ferreira-araújo">Kennedy Ferreira Araújo</a> | <a href="src/pages/disciplinas.md/#ledger-engenharia-de-software-ii">Engenharia de Software II (PPC antigo)</a>
+<a href="src/pages/docentes.md/#leila-lisiane-rossi">Leila Lisiane Rossi</a> | <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-i">Banco de Dados I (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-banco-de-dados-ii">Banco de Dados II (PPC antigo)</a> <br>  
+<a href="src/pages/docentes.md/#manassés-ribeiro">Manassés Ribeiro</a> | <a href="src/pages/disciplinas.md/#ledger-tópicos-especiais-integrados">Tópicos Especiais Integrados (PPC antigo)</a><br>
+<a href="src/pages/docentes.md/#maurício-natanael-ferreira">Maurício Natanael Ferreira</a> | <a href="src/pages/disciplinas.md/#multimídia">Multimídia</a>, <a href="src/pages/disciplinas.md/#web-design">Web Design</a> <br>
+<a href="src/pages/docentes.md/#nadir-paula-da-rosa">Nadir Paula da Rosa</a> | <a href="src/pages/disciplinas.md/#ledger-administração-e-empreendedorismo">Administração e Empreendedorismo (PPC antigo)</a> <br>
+<a href="src/pages/docentes.md/#rosa-maria-pascoali">Rosa Maria Pascoali</a> | <a href="src/pages/disciplinas.md/#ledger-redes-locais">Redes Locais (PPC antigo)</a>, <a href="src/pages/disciplinas.md/#ledger-redes">Redes (PPC antigo)</a>
+<a href="src/pages/docentes.md/#rosangela-aguiar-adam">Rosangela Aguiar Adam</a> | <a href="src/pages/disciplinas.md/#fundamentos-de-informática">Fundamentos de Informática</a> <br>
+<a href="src/pages/docentes.md/#wagner-carlos-mariani">Wagner Carlos Mariani</a> | <a href="src/pages/disciplinas.md/#hardware-e-sistemas-operacionais">Sistemas Operacionais</a>, <a href="src/pages/disciplinas.md/#ledger-hardware-e-sistemas-operacionais">Sistemas Operacionais (PPC antigo)</a><br>
+<a href="src/pages/docentes.md/#wanderson-rigo">Wanderson Rigo</a> | <a href="src/pages/disciplinas.md/#lógica-de-programação">Lógica de Programação</a> <br>
 
 <a href="src/pages/docentes.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20cada%20docente-green?style=for-the-badge&color=037623"/></a>
+
 ## Eventos
 
 ## Depoimentos de egressos

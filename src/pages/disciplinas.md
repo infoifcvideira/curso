@@ -212,7 +212,7 @@ Conteúdos abordados:
 Ministrada por: <b>A definir.</b>
 <br>
 
-# ledger Disciplinas do PPC antigo
+# :ledger: Disciplinas do PPC antigo
 
 A seguir estão as disciplinas que ainda são ministradas, mas que não estarão em vigor aos alunos novos, são aplicadas aos discentes veteranos.
 

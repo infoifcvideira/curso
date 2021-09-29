@@ -71,7 +71,7 @@ Para mais informações acesse o <a href="https://doity.com.br/sci">site oficial
 
 ### IV SCI (2017)
 
-A **Semana da Computação e Informática de 2017** foi realizada no IFC Campus Videira entre os dias 12 e 14 de junho de 2018, e teve como ponto central a aproximação entre jogos, brincadeiras e a exposição de muito conteúdo, técnicas, conhecimento e intercâmbio de experiências. Foram 24h de atividades distribuídas em três dias, dez oficinas, seis palestras e vinte jogos.
+A **Semana da Computação e Informática de 2017** foi realizada no IFC Campus Videira entre os dias (preencher).
 
 Para mais informações acesse o <a href="https://doity.com.br/iv-semana-academica-da-computacao-e-informatica">site oficial do evento</a>.
 

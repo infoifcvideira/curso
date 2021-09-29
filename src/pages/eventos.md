@@ -17,6 +17,17 @@
     <li>
         <a href="#feira-de-iniciação-científica-e-extensão">Feira de Iniciação Científica e Extensão</a>
     </li>
+    <li>
+        <a href="#viagens">Viagens</a>
+        <ul>
+            <li>
+                <a href="#BGS">BGS</a>
+            </li>
+            <li>
+                <a href="#GeekCity">GeekCity</a>
+            </li>
+        </ul>
+    </li>
 </ul>
 
 ## Semana da Computação e Informática
@@ -29,23 +40,27 @@ Para mais informações acesse o <a href="http://cti.videira.ifc.edu.br/~kennedy
 
 A **Semana da Computação e Informática 2019** (SCI) foi realizada no IFC Campus Videira entre os dias 29 e 31 de outubro. A programação do evento contou com palestras, oficinas, gincana, maratona de programação e uma tarde jogos, que incluiu também um concurso de cosplay.
 
-#### Oficinas
-
-Oficina | Descrição | Mediador(a) |
-:------:  | :-------:  |  :-------: |
-Conhecendo ASP.NET | Introdução à plataforma da Microsoft focada no desenvolvimento de aplicações Web | Kaio Takeshi
-Criando beats | Aprenda sobre a edição de áudio com a criação de beats no FL Studio. | Adrian e Leonardo
-Desenvolvimento de aplicações front-end usando Vue.js | Introdução ao framework Vue.js para o desenvolvimento de aplicações front-end | Eduardo Ugolini e Vinicius Schulte
-Integração React com api rest |  | João S. e Marcos K. 
 
 <a href="https://infoifcvideira.github.io/galeria/VI-SCI-2019-Semana-da-Computacao-e-Informatica.html"><img src="https://img.shields.io/badge/%C3%81lbum%20de%20fotos-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjQuMDAwMDAwcHQiIGhlaWdodD0iMjQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNC4wMDAwMDAgMjQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik01MCAyMDAgYzAgLTYgMzAgLTEwIDc1IC0xMCBsNzUgMCAwIC02MCBjMCAtMzUgNCAtNjAgMTAgLTYwIDcgMCAxMAoyNSA4IDY4IGwtMyA2NyAtODIgMyBjLTUzIDIgLTgzIC0xIC04MyAtOHoiLz4KPHBhdGggZD0iTTE0IDE1NyBjLTMgLTggLTQgLTM5IC0yIC02OCBsMyAtNTQgODAgMCA4MCAwIDAgNjUgMCA2NSAtNzggMyBjLTU5CjIgLTc5IDAgLTgzIC0xMXogbTE0NiAtNTcgbDAgLTUwIC02NSAwIC02NSAwIDAgNTAgMCA1MCA2NSAwIDY1IDAgMCAtNTB6Ii8+CjwvZz4KPC9zdmc+Cg==&labelColor=1e74c4&color=0c64c4&logoWidth=24"/></a>
 
 ### V SCI (2018)
 
-A **Semana da Computação e Informática 2018** (SCI) foi realizada no IFC Campus Videira entre os dias (preencher) e (preencher) de (preencher). A programação do evento contou (preencher).
+A **Semana da Computação e Informática 2018** (SCI) foi realizada no IFC Campus Videira entre os dias (preencher) e (preencher) de (preencher). A programação do evento contou com (preencher).
 
 <a href="https://infoifcvideira.github.io/galeria/VI-SCI-2019-Semana-da-Computacao-e-Informatica.html"><img src="https://img.shields.io/badge/%C3%81lbum%20de%20fotos-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjQuMDAwMDAwcHQiIGhlaWdodD0iMjQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNC4wMDAwMDAgMjQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik01MCAyMDAgYzAgLTYgMzAgLTEwIDc1IC0xMCBsNzUgMCAwIC02MCBjMCAtMzUgNCAtNjAgMTAgLTYwIDcgMCAxMAoyNSA4IDY4IGwtMyA2NyAtODIgMyBjLTUzIDIgLTgzIC0xIC04MyAtOHoiLz4KPHBhdGggZD0iTTE0IDE1NyBjLTMgLTggLTQgLTM5IC0yIC02OCBsMyAtNTQgODAgMCA4MCAwIDAgNjUgMCA2NSAtNzggMyBjLTU5CjIgLTc5IDAgLTgzIC0xMXogbTE0NiAtNTcgbDAgLTUwIC02NSAwIC02NSAwIDAgNTAgMCA1MCA2NSAwIDY1IDAgMCAtNTB6Ii8+CjwvZz4KPC9zdmc+Cg==&labelColor=1e74c4&color=0c64c4&logoWidth=24"/></a>
 
 ## Feira de Iniciação Científica e Extensão
 
-to-do
+A **Feira de Iniciação Científica e Extensão** é um evento realizado anualmente e que conta com a apresentação de projetos realizados por alunos de todos os cursos do Instituto Federal Catarinense - Campus Videira, contando também com uma programação personalizada em cada edição do evento.
+
+### 8ª edição (2019)
+
+<a href="https://infoifcvideira.github.io/galeria/FICE-2019.html"><img src="https://img.shields.io/badge/%C3%81lbum%20de%20fotos-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjQuMDAwMDAwcHQiIGhlaWdodD0iMjQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNC4wMDAwMDAgMjQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik01MCAyMDAgYzAgLTYgMzAgLTEwIDc1IC0xMCBsNzUgMCAwIC02MCBjMCAtMzUgNCAtNjAgMTAgLTYwIDcgMCAxMAoyNSA4IDY4IGwtMyA2NyAtODIgMyBjLTUzIDIgLTgzIC0xIC04MyAtOHoiLz4KPHBhdGggZD0iTTE0IDE1NyBjLTMgLTggLTQgLTM5IC0yIC02OCBsMyAtNTQgODAgMCA4MCAwIDAgNjUgMCA2NSAtNzggMyBjLTU5CjIgLTc5IDAgLTgzIC0xMXogbTE0NiAtNTcgbDAgLTUwIC02NSAwIC02NSAwIDAgNTAgMCA1MCA2NSAwIDY1IDAgMCAtNTB6Ii8+CjwvZz4KPC9zdmc+Cg==&labelColor=1e74c4&color=0c64c4&logoWidth=24"/></a>
+
+### 7ª edição (2018)
+
+<a href="https://infoifcvideira.github.io/galeria/FICE-2018.html"><img src="https://img.shields.io/badge/%C3%81lbum%20de%20fotos-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjQuMDAwMDAwcHQiIGhlaWdodD0iMjQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNC4wMDAwMDAgMjQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik01MCAyMDAgYzAgLTYgMzAgLTEwIDc1IC0xMCBsNzUgMCAwIC02MCBjMCAtMzUgNCAtNjAgMTAgLTYwIDcgMCAxMAoyNSA4IDY4IGwtMyA2NyAtODIgMyBjLTUzIDIgLTgzIC0xIC04MyAtOHoiLz4KPHBhdGggZD0iTTE0IDE1NyBjLTMgLTggLTQgLTM5IC0yIC02OCBsMyAtNTQgODAgMCA4MCAwIDAgNjUgMCA2NSAtNzggMyBjLTU5CjIgLTc5IDAgLTgzIC0xMXogbTE0NiAtNTcgbDAgLTUwIC02NSAwIC02NSAwIDAgNTAgMCA1MCA2NSAwIDY1IDAgMCAtNTB6Ii8+CjwvZz4KPC9zdmc+Cg==&labelColor=1e74c4&color=0c64c4&logoWidth=24"/></a>
+
+### 6ª edição (2017)
+
+<a href="https://infoifcvideira.github.io/galeria/FICE-2017.html"><img src="https://img.shields.io/badge/%C3%81lbum%20de%20fotos-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjQuMDAwMDAwcHQiIGhlaWdodD0iMjQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNC4wMDAwMDAgMjQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwyNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNmZmZmZmYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik01MCAyMDAgYzAgLTYgMzAgLTEwIDc1IC0xMCBsNzUgMCAwIC02MCBjMCAtMzUgNCAtNjAgMTAgLTYwIDcgMCAxMAoyNSA4IDY4IGwtMyA2NyAtODIgMyBjLTUzIDIgLTgzIC0xIC04MyAtOHoiLz4KPHBhdGggZD0iTTE0IDE1NyBjLTMgLTggLTQgLTM5IC0yIC02OCBsMyAtNTQgODAgMCA4MCAwIDAgNjUgMCA2NSAtNzggMyBjLTU5CjIgLTc5IDAgLTgzIC0xMXogbTE0NiAtNTcgbDAgLTUwIC02NSAwIC02NSAwIDAgNTAgMCA1MCA2NSAwIDY1IDAgMCAtNTB6Ii8+CjwvZz4KPC9zdmc+Cg==&labelColor=1e74c4&color=0c64c4&logoWidth=24"/></a>

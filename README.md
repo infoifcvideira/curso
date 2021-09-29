@@ -96,4 +96,8 @@ Docente | Disciplinas Ministradas
 
 ## Eventos
 
+O **Curso Técnico em Informática** do Instituto Federal Catarinense – Campus Videira dispõe de vários eventos que visam a imersão do aluno nos setores da informática, como a <a href="src/pages/eventos.md#semana-da-computação-e-informática">Semana da Computação e Informática</a>, a <a href="src/pages/eventos.md#feira-de-iniciação-científica-e-extensão">Feira de Iniciação Científica e Extensão</a>, e viagens para a <a href="">BGS</a> e <a href="">GeekCity</a>.
+
+<a href="src/pages/eventos.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20os%20eventos-green?style=for-the-badge&color=037623"/></a>
+
 ## Depoimentos de egressos

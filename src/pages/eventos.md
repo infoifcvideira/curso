@@ -81,7 +81,7 @@ Para acompanhar a transmissão gravada do evento, acesse o <a href="https://www.
 
 ### 8ª edição (2019)
 
-A 8ª edição da Feira de Iniciação Científica e Extensão foi realizada entre os dias 05 e 06 de setembro de 2019.
+A 8ª edição da Feira de Iniciação Científica e Extensão foi realizada nos dias 05 e 06 de setembro de 2019.
 
 Confira abaixo o álbum de imagens do evento.
 
@@ -97,7 +97,7 @@ Confira abaixo o álbum de imagens do evento.
 
 ### 6ª edição (2017)
 
-A 6ª edição da Feira de Iniciação Científica e Extensão foi realizada entre os dias 05 e 06 de setembro de 2017.
+A 6ª edição da Feira de Iniciação Científica e Extensão foi realizada nos dias 05 e 06 de setembro de 2017.
 
 Confira abaixo o álbum de imagens do evento.
 

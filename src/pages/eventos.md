@@ -7,10 +7,10 @@
         <a href="#semana-da-computação-e-informática">Semana da Computação e Informática</a>
         <ul>
             <li>
-                <a href="#VI-SCI-(2019)">VI SCI (2019)</a>
+                <a href="#VI-SCI-2019">VI SCI (2019)</a>
             </li>
             <li>
-                <a href="#V-SCI-(2018)">V SCI (2018)</a>
+                <a href="#V-SCI-2018">V SCI (2018)</a>
             </li>
         </ul>
     </li>
@@ -18,16 +18,16 @@
         <a href="#feira-de-iniciação-científica-e-extensão">Feira de Iniciação Científica e Extensão</a>
         <ul>
             <li>
-                <a href="#9ª-edição-(2020)">9ª edição (2020)</a>
+                <a href="#9ª-edição-2020">9ª edição (2020)</a>
             </li>
             <li>
-                <a href="#8ª-edição-(2019)">8ª edição (2019)</a>
+                <a href="#8ª-edição-2019">8ª edição (2019)</a>
             </li>
             <li>
-                <a href="#7ª-edição-(2018)">7ª edição (2018)</a>
+                <a href="#7ª-edição-2018">7ª edição (2018)</a>
             </li>
             <li>
-                <a href="#6ª-edição-(2017)">6ª edição (2017)</a>
+                <a href="#6ª-edição-2017">6ª edição (2017)</a>
             </li>
         </ul>
     </li>
